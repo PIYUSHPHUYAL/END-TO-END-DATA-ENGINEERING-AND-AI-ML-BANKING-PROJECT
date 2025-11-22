@@ -1,0 +1,151 @@
+branch_id,branch_name,city,branch_type
+BR_0001,Branch_1,Philadelphia,Sub-branch
+BR_0002,Branch_2,San Antonio,Main
+BR_0003,Branch_3,Chicago,Sub-branch
+BR_0004,Branch_4,San Antonio,Sub-branch
+BR_0005,Branch_5,San Diego,Sub-branch
+BR_0006,Branch_6,Austin,Sub-branch
+BR_0007,Branch_7,Chicago,Sub-branch
+BR_0008,Branch_8,Phoenix,Sub-branch
+BR_0009,Branch_9,New York,Sub-branch
+BR_0010,Branch_10,Dallas,Main
+BR_0011,Branch_11,San Diego,Sub-branch
+BR_0012,Branch_12,Chicago,Main
+BR_0013,Branch_13,Houston,Sub-branch
+BR_0014,Branch_14,New York,Sub-branch
+BR_0015,Branch_15,New York,Main
+BR_0016,Branch_16,Philadelphia,Main
+BR_0017,Branch_17,Philadelphia,Sub-branch
+BR_0018,Branch_18,Dallas,Sub-branch
+BR_0019,Branch_19,Phoenix,Sub-branch
+BR_0020,Branch_20,Chicago,Sub-branch
+BR_0021,Branch_21,Philadelphia,Sub-branch
+BR_0022,Branch_22,San Diego,Sub-branch
+BR_0023,Branch_23,San Antonio,Sub-branch
+BR_0024,Branch_24,Austin,Sub-branch
+BR_0025,Branch_25,Chicago,Sub-branch
+BR_0026,Branch_26,New York,Sub-branch
+BR_0027,Branch_27,Houston,Sub-branch
+BR_0028,Branch_28,Philadelphia,Sub-branch
+BR_0029,Branch_29,Houston,Sub-branch
+BR_0030,Branch_30,Phoenix,Sub-branch
+BR_0031,Branch_31,Austin,Main
+BR_0032,Branch_32,San Antonio,Sub-branch
+BR_0033,Branch_33,Phoenix,Sub-branch
+BR_0034,Branch_34,Phoenix,Main
+BR_0035,Branch_35,Los Angeles,Sub-branch
+BR_0036,Branch_36,New York,Sub-branch
+BR_0037,Branch_37,Houston,Main
+BR_0038,Branch_38,Austin,Main
+BR_0039,Branch_39,San Diego,Main
+BR_0040,Branch_40,Chicago,Sub-branch
+BR_0041,Branch_41,Philadelphia,Main
+BR_0042,Branch_42,Austin,Sub-branch
+BR_0043,Branch_43,Los Angeles,Sub-branch
+BR_0044,Branch_44,Dallas,Sub-branch
+BR_0045,Branch_45,Dallas,ATM Only
+BR_0046,Branch_46,Houston,ATM Only
+BR_0047,Branch_47,San Diego,Sub-branch
+BR_0048,Branch_48,Los Angeles,Main
+BR_0049,Branch_49,Austin,Main
+BR_0050,Branch_50,Los Angeles,ATM Only
+BR_0051,Branch_51,Philadelphia,Main
+BR_0052,Branch_52,Los Angeles,ATM Only
+BR_0053,Branch_53,New York,Sub-branch
+BR_0054,Branch_54,Austin,Main
+BR_0055,Branch_55,Los Angeles,ATM Only
+BR_0056,Branch_56,Los Angeles,ATM Only
+BR_0057,Branch_57,Phoenix,Sub-branch
+BR_0058,Branch_58,Philadelphia,Sub-branch
+BR_0059,Branch_59,Chicago,Sub-branch
+BR_0060,Branch_60,San Diego,Sub-branch
+BR_0061,Branch_61,Los Angeles,Sub-branch
+BR_0062,Branch_62,Austin,Sub-branch
+BR_0063,Branch_63,Chicago,Main
+BR_0064,Branch_64,Houston,Main
+BR_0065,Branch_65,Phoenix,Main
+BR_0066,Branch_66,Phoenix,Sub-branch
+BR_0067,Branch_67,Philadelphia,Sub-branch
+BR_0068,Branch_68,Houston,Main
+BR_0069,Branch_69,Austin,Sub-branch
+BR_0070,Branch_70,San Antonio,Main
+BR_0071,Branch_71,San Diego,Sub-branch
+BR_0072,Branch_72,Houston,ATM Only
+BR_0073,Branch_73,Dallas,ATM Only
+BR_0074,Branch_74,Philadelphia,ATM Only
+BR_0075,Branch_75,San Diego,Sub-branch
+BR_0076,Branch_76,Dallas,Sub-branch
+BR_0077,Branch_77,New York,ATM Only
+BR_0078,Branch_78,Phoenix,Main
+BR_0079,Branch_79,San Antonio,ATM Only
+BR_0080,Branch_80,Austin,Sub-branch
+BR_0081,Branch_81,Los Angeles,Sub-branch
+BR_0082,Branch_82,San Antonio,Sub-branch
+BR_0083,Branch_83,San Antonio,Sub-branch
+BR_0084,Branch_84,Chicago,ATM Only
+BR_0085,Branch_85,Dallas,Main
+BR_0086,Branch_86,San Antonio,Sub-branch
+BR_0087,Branch_87,Austin,Sub-branch
+BR_0088,Branch_88,Phoenix,Sub-branch
+BR_0089,Branch_89,San Antonio,Sub-branch
+BR_0090,Branch_90,San Antonio,ATM Only
+BR_0091,Branch_91,Philadelphia,Sub-branch
+BR_0092,Branch_92,Houston,Sub-branch
+BR_0093,Branch_93,San Diego,Sub-branch
+BR_0094,Branch_94,Los Angeles,Sub-branch
+BR_0095,Branch_95,San Diego,Sub-branch
+BR_0096,Branch_96,Phoenix,ATM Only
+BR_0097,Branch_97,San Antonio,Main
+BR_0098,Branch_98,Chicago,Main
+BR_0099,Branch_99,San Antonio,Sub-branch
+BR_0100,Branch_100,Dallas,Sub-branch
+BR_0101,Branch_101,San Antonio,Sub-branch
+BR_0102,Branch_102,New York,ATM Only
+BR_0103,Branch_103,Dallas,Main
+BR_0104,Branch_104,San Antonio,Sub-branch
+BR_0105,Branch_105,Los Angeles,ATM Only
+BR_0106,Branch_106,Phoenix,ATM Only
+BR_0107,Branch_107,Austin,Sub-branch
+BR_0108,Branch_108,Los Angeles,Sub-branch
+BR_0109,Branch_109,San Antonio,ATM Only
+BR_0110,Branch_110,Dallas,Sub-branch
+BR_0111,Branch_111,Houston,Sub-branch
+BR_0112,Branch_112,Chicago,Sub-branch
+BR_0113,Branch_113,Philadelphia,Main
+BR_0114,Branch_114,San Diego,Sub-branch
+BR_0115,Branch_115,San Diego,Sub-branch
+BR_0116,Branch_116,San Diego,Main
+BR_0117,Branch_117,Phoenix,ATM Only
+BR_0118,Branch_118,Philadelphia,Sub-branch
+BR_0119,Branch_119,Los Angeles,Sub-branch
+BR_0120,Branch_120,Philadelphia,Main
+BR_0121,Branch_121,Phoenix,Main
+BR_0122,Branch_122,Chicago,Main
+BR_0123,Branch_123,San Diego,Sub-branch
+BR_0124,Branch_124,Houston,Main
+BR_0125,Branch_125,Los Angeles,Sub-branch
+BR_0126,Branch_126,Chicago,ATM Only
+BR_0127,Branch_127,Los Angeles,Main
+BR_0128,Branch_128,Los Angeles,ATM Only
+BR_0129,Branch_129,Chicago,Main
+BR_0130,Branch_130,San Antonio,Sub-branch
+BR_0131,Branch_131,Austin,Sub-branch
+BR_0132,Branch_132,New York,Main
+BR_0133,Branch_133,Austin,Sub-branch
+BR_0134,Branch_134,Philadelphia,Main
+BR_0135,Branch_135,New York,Sub-branch
+BR_0136,Branch_136,Chicago,Sub-branch
+BR_0137,Branch_137,Houston,Main
+BR_0138,Branch_138,San Diego,Sub-branch
+BR_0139,Branch_139,Los Angeles,Main
+BR_0140,Branch_140,San Antonio,ATM Only
+BR_0141,Branch_141,Chicago,Sub-branch
+BR_0142,Branch_142,New York,Main
+BR_0143,Branch_143,Philadelphia,Main
+BR_0144,Branch_144,Los Angeles,Main
+BR_0145,Branch_145,Chicago,Main
+BR_0146,Branch_146,Philadelphia,Sub-branch
+BR_0147,Branch_147,Chicago,ATM Only
+BR_0148,Branch_148,Phoenix,Main
+BR_0149,Branch_149,Chicago,Sub-branch
+BR_0150,Branch_150,San Antonio,Sub-branch

@@ -1,0 +1,1501 @@
+merchant_id,merchant_name,category,city
+MERCH_00001,Merchant_1,Gas Station,Los Angeles
+MERCH_00002,Merchant_2,Electronics,Phoenix
+MERCH_00003,Merchant_3,Entertainment,New York
+MERCH_00004,Merchant_4,Other,San Antonio
+MERCH_00005,Merchant_5,Restaurant,Los Angeles
+MERCH_00006,Merchant_6,Travel,Houston
+MERCH_00007,Merchant_7,Online Retail,Dallas
+MERCH_00008,Merchant_8,Restaurant,San Diego
+MERCH_00009,Merchant_9,Grocery,Austin
+MERCH_00010,Merchant_10,Healthcare,Los Angeles
+MERCH_00011,Merchant_11,Electronics,Houston
+MERCH_00012,Merchant_12,Other,Houston
+MERCH_00013,Merchant_13,Restaurant,Los Angeles
+MERCH_00014,Merchant_14,Healthcare,Los Angeles
+MERCH_00015,Merchant_15,Gas Station,Phoenix
+MERCH_00016,Merchant_16,Entertainment,Houston
+MERCH_00017,Merchant_17,Restaurant,San Diego
+MERCH_00018,Merchant_18,Entertainment,Houston
+MERCH_00019,Merchant_19,Online Retail,San Diego
+MERCH_00020,Merchant_20,Other,Phoenix
+MERCH_00021,Merchant_21,Grocery,New York
+MERCH_00022,Merchant_22,Electronics,Dallas
+MERCH_00023,Merchant_23,Online Retail,San Diego
+MERCH_00024,Merchant_24,Healthcare,New York
+MERCH_00025,Merchant_25,Grocery,Chicago
+MERCH_00026,Merchant_26,Restaurant,Chicago
+MERCH_00027,Merchant_27,Electronics,Phoenix
+MERCH_00028,Merchant_28,Other,San Antonio
+MERCH_00029,Merchant_29,Other,New York
+MERCH_00030,Merchant_30,Restaurant,New York
+MERCH_00031,Merchant_31,Grocery,Austin
+MERCH_00032,Merchant_32,Travel,Philadelphia
+MERCH_00033,Merchant_33,Other,Phoenix
+MERCH_00034,Merchant_34,Online Retail,Chicago
+MERCH_00035,Merchant_35,Electronics,Chicago
+MERCH_00036,Merchant_36,Gas Station,Houston
+MERCH_00037,Merchant_37,Other,Austin
+MERCH_00038,Merchant_38,Travel,Los Angeles
+MERCH_00039,Merchant_39,Online Retail,Dallas
+MERCH_00040,Merchant_40,Travel,Houston
+MERCH_00041,Merchant_41,Electronics,Austin
+MERCH_00042,Merchant_42,Restaurant,Chicago
+MERCH_00043,Merchant_43,Online Retail,Austin
+MERCH_00044,Merchant_44,Restaurant,San Antonio
+MERCH_00045,Merchant_45,Electronics,Dallas
+MERCH_00046,Merchant_46,Gas Station,Los Angeles
+MERCH_00047,Merchant_47,Travel,Philadelphia
+MERCH_00048,Merchant_48,Electronics,Phoenix
+MERCH_00049,Merchant_49,Restaurant,New York
+MERCH_00050,Merchant_50,Other,San Antonio
+MERCH_00051,Merchant_51,Healthcare,New York
+MERCH_00052,Merchant_52,Travel,Austin
+MERCH_00053,Merchant_53,Utilities,Dallas
+MERCH_00054,Merchant_54,Gas Station,Houston
+MERCH_00055,Merchant_55,Online Retail,San Diego
+MERCH_00056,Merchant_56,Healthcare,New York
+MERCH_00057,Merchant_57,Entertainment,Phoenix
+MERCH_00058,Merchant_58,Healthcare,Chicago
+MERCH_00059,Merchant_59,Utilities,Houston
+MERCH_00060,Merchant_60,Healthcare,Houston
+MERCH_00061,Merchant_61,Healthcare,San Diego
+MERCH_00062,Merchant_62,Travel,Austin
+MERCH_00063,Merchant_63,Restaurant,Austin
+MERCH_00064,Merchant_64,Entertainment,Chicago
+MERCH_00065,Merchant_65,Online Retail,New York
+MERCH_00066,Merchant_66,Gas Station,Phoenix
+MERCH_00067,Merchant_67,Online Retail,Los Angeles
+MERCH_00068,Merchant_68,Online Retail,Philadelphia
+MERCH_00069,Merchant_69,Gas Station,Houston
+MERCH_00070,Merchant_70,Utilities,Dallas
+MERCH_00071,Merchant_71,Gas Station,San Antonio
+MERCH_00072,Merchant_72,Restaurant,Los Angeles
+MERCH_00073,Merchant_73,Grocery,San Antonio
+MERCH_00074,Merchant_74,Grocery,Austin
+MERCH_00075,Merchant_75,Electronics,San Diego
+MERCH_00076,Merchant_76,Electronics,Chicago
+MERCH_00077,Merchant_77,Utilities,Chicago
+MERCH_00078,Merchant_78,Online Retail,Los Angeles
+MERCH_00079,Merchant_79,Electronics,New York
+MERCH_00080,Merchant_80,Travel,Chicago
+MERCH_00081,Merchant_81,Other,Austin
+MERCH_00082,Merchant_82,Entertainment,San Antonio
+MERCH_00083,Merchant_83,Utilities,Dallas
+MERCH_00084,Merchant_84,Travel,Dallas
+MERCH_00085,Merchant_85,Grocery,Philadelphia
+MERCH_00086,Merchant_86,Healthcare,Philadelphia
+MERCH_00087,Merchant_87,Restaurant,Phoenix
+MERCH_00088,Merchant_88,Utilities,Los Angeles
+MERCH_00089,Merchant_89,Entertainment,San Antonio
+MERCH_00090,Merchant_90,Entertainment,New York
+MERCH_00091,Merchant_91,Other,Philadelphia
+MERCH_00092,Merchant_92,Other,Houston
+MERCH_00093,Merchant_93,Electronics,Chicago
+MERCH_00094,Merchant_94,Healthcare,New York
+MERCH_00095,Merchant_95,Other,Philadelphia
+MERCH_00096,Merchant_96,Grocery,San Antonio
+MERCH_00097,Merchant_97,Gas Station,New York
+MERCH_00098,Merchant_98,Utilities,New York
+MERCH_00099,Merchant_99,Grocery,San Antonio
+MERCH_00100,Merchant_100,Healthcare,Philadelphia
+MERCH_00101,Merchant_101,Travel,San Antonio
+MERCH_00102,Merchant_102,Other,San Diego
+MERCH_00103,Merchant_103,Electronics,San Diego
+MERCH_00104,Merchant_104,Travel,Dallas
+MERCH_00105,Merchant_105,Electronics,Dallas
+MERCH_00106,Merchant_106,Utilities,San Antonio
+MERCH_00107,Merchant_107,Restaurant,Dallas
+MERCH_00108,Merchant_108,Other,Philadelphia
+MERCH_00109,Merchant_109,Travel,Dallas
+MERCH_00110,Merchant_110,Online Retail,Los Angeles
+MERCH_00111,Merchant_111,Gas Station,Los Angeles
+MERCH_00112,Merchant_112,Electronics,Philadelphia
+MERCH_00113,Merchant_113,Restaurant,Chicago
+MERCH_00114,Merchant_114,Gas Station,Los Angeles
+MERCH_00115,Merchant_115,Entertainment,San Diego
+MERCH_00116,Merchant_116,Grocery,San Antonio
+MERCH_00117,Merchant_117,Restaurant,San Diego
+MERCH_00118,Merchant_118,Gas Station,Philadelphia
+MERCH_00119,Merchant_119,Other,Dallas
+MERCH_00120,Merchant_120,Entertainment,Dallas
+MERCH_00121,Merchant_121,Online Retail,Los Angeles
+MERCH_00122,Merchant_122,Healthcare,Austin
+MERCH_00123,Merchant_123,Healthcare,Phoenix
+MERCH_00124,Merchant_124,Grocery,Dallas
+MERCH_00125,Merchant_125,Electronics,Chicago
+MERCH_00126,Merchant_126,Grocery,Phoenix
+MERCH_00127,Merchant_127,Entertainment,San Diego
+MERCH_00128,Merchant_128,Online Retail,Los Angeles
+MERCH_00129,Merchant_129,Healthcare,Philadelphia
+MERCH_00130,Merchant_130,Healthcare,Houston
+MERCH_00131,Merchant_131,Utilities,Philadelphia
+MERCH_00132,Merchant_132,Travel,Chicago
+MERCH_00133,Merchant_133,Entertainment,Philadelphia
+MERCH_00134,Merchant_134,Entertainment,San Antonio
+MERCH_00135,Merchant_135,Electronics,Austin
+MERCH_00136,Merchant_136,Entertainment,Chicago
+MERCH_00137,Merchant_137,Utilities,Phoenix
+MERCH_00138,Merchant_138,Online Retail,San Diego
+MERCH_00139,Merchant_139,Restaurant,Los Angeles
+MERCH_00140,Merchant_140,Healthcare,San Antonio
+MERCH_00141,Merchant_141,Entertainment,New York
+MERCH_00142,Merchant_142,Travel,San Antonio
+MERCH_00143,Merchant_143,Entertainment,New York
+MERCH_00144,Merchant_144,Gas Station,Houston
+MERCH_00145,Merchant_145,Travel,Houston
+MERCH_00146,Merchant_146,Other,Phoenix
+MERCH_00147,Merchant_147,Entertainment,Los Angeles
+MERCH_00148,Merchant_148,Entertainment,Philadelphia
+MERCH_00149,Merchant_149,Electronics,Philadelphia
+MERCH_00150,Merchant_150,Gas Station,San Diego
+MERCH_00151,Merchant_151,Restaurant,Austin
+MERCH_00152,Merchant_152,Entertainment,New York
+MERCH_00153,Merchant_153,Online Retail,Houston
+MERCH_00154,Merchant_154,Restaurant,Los Angeles
+MERCH_00155,Merchant_155,Healthcare,San Diego
+MERCH_00156,Merchant_156,Restaurant,Houston
+MERCH_00157,Merchant_157,Travel,San Diego
+MERCH_00158,Merchant_158,Online Retail,Los Angeles
+MERCH_00159,Merchant_159,Utilities,Houston
+MERCH_00160,Merchant_160,Electronics,Dallas
+MERCH_00161,Merchant_161,Online Retail,Phoenix
+MERCH_00162,Merchant_162,Healthcare,Philadelphia
+MERCH_00163,Merchant_163,Gas Station,Austin
+MERCH_00164,Merchant_164,Utilities,Dallas
+MERCH_00165,Merchant_165,Healthcare,Dallas
+MERCH_00166,Merchant_166,Healthcare,San Antonio
+MERCH_00167,Merchant_167,Other,Los Angeles
+MERCH_00168,Merchant_168,Electronics,San Antonio
+MERCH_00169,Merchant_169,Grocery,Dallas
+MERCH_00170,Merchant_170,Other,Los Angeles
+MERCH_00171,Merchant_171,Utilities,San Antonio
+MERCH_00172,Merchant_172,Restaurant,San Antonio
+MERCH_00173,Merchant_173,Grocery,Chicago
+MERCH_00174,Merchant_174,Travel,Philadelphia
+MERCH_00175,Merchant_175,Grocery,San Diego
+MERCH_00176,Merchant_176,Other,Austin
+MERCH_00177,Merchant_177,Other,San Diego
+MERCH_00178,Merchant_178,Other,Chicago
+MERCH_00179,Merchant_179,Entertainment,Philadelphia
+MERCH_00180,Merchant_180,Entertainment,Los Angeles
+MERCH_00181,Merchant_181,Grocery,Los Angeles
+MERCH_00182,Merchant_182,Other,San Diego
+MERCH_00183,Merchant_183,Electronics,Austin
+MERCH_00184,Merchant_184,Gas Station,Phoenix
+MERCH_00185,Merchant_185,Restaurant,Phoenix
+MERCH_00186,Merchant_186,Electronics,Houston
+MERCH_00187,Merchant_187,Electronics,Austin
+MERCH_00188,Merchant_188,Restaurant,Houston
+MERCH_00189,Merchant_189,Travel,San Diego
+MERCH_00190,Merchant_190,Entertainment,Chicago
+MERCH_00191,Merchant_191,Grocery,Chicago
+MERCH_00192,Merchant_192,Gas Station,San Diego
+MERCH_00193,Merchant_193,Online Retail,Chicago
+MERCH_00194,Merchant_194,Restaurant,Los Angeles
+MERCH_00195,Merchant_195,Other,Phoenix
+MERCH_00196,Merchant_196,Electronics,Chicago
+MERCH_00197,Merchant_197,Online Retail,Philadelphia
+MERCH_00198,Merchant_198,Restaurant,San Antonio
+MERCH_00199,Merchant_199,Grocery,Chicago
+MERCH_00200,Merchant_200,Healthcare,Dallas
+MERCH_00201,Merchant_201,Restaurant,Austin
+MERCH_00202,Merchant_202,Online Retail,New York
+MERCH_00203,Merchant_203,Other,San Antonio
+MERCH_00204,Merchant_204,Electronics,Houston
+MERCH_00205,Merchant_205,Restaurant,San Antonio
+MERCH_00206,Merchant_206,Other,Dallas
+MERCH_00207,Merchant_207,Utilities,Dallas
+MERCH_00208,Merchant_208,Restaurant,New York
+MERCH_00209,Merchant_209,Travel,Austin
+MERCH_00210,Merchant_210,Entertainment,Houston
+MERCH_00211,Merchant_211,Travel,San Antonio
+MERCH_00212,Merchant_212,Online Retail,Austin
+MERCH_00213,Merchant_213,Grocery,Philadelphia
+MERCH_00214,Merchant_214,Restaurant,Dallas
+MERCH_00215,Merchant_215,Other,San Antonio
+MERCH_00216,Merchant_216,Other,Chicago
+MERCH_00217,Merchant_217,Travel,San Antonio
+MERCH_00218,Merchant_218,Healthcare,Austin
+MERCH_00219,Merchant_219,Gas Station,Phoenix
+MERCH_00220,Merchant_220,Entertainment,Los Angeles
+MERCH_00221,Merchant_221,Utilities,Austin
+MERCH_00222,Merchant_222,Online Retail,Chicago
+MERCH_00223,Merchant_223,Entertainment,Philadelphia
+MERCH_00224,Merchant_224,Entertainment,Philadelphia
+MERCH_00225,Merchant_225,Other,San Antonio
+MERCH_00226,Merchant_226,Utilities,Philadelphia
+MERCH_00227,Merchant_227,Gas Station,Dallas
+MERCH_00228,Merchant_228,Grocery,Phoenix
+MERCH_00229,Merchant_229,Healthcare,Phoenix
+MERCH_00230,Merchant_230,Online Retail,San Diego
+MERCH_00231,Merchant_231,Restaurant,San Diego
+MERCH_00232,Merchant_232,Electronics,New York
+MERCH_00233,Merchant_233,Online Retail,Chicago
+MERCH_00234,Merchant_234,Grocery,Philadelphia
+MERCH_00235,Merchant_235,Entertainment,Philadelphia
+MERCH_00236,Merchant_236,Online Retail,New York
+MERCH_00237,Merchant_237,Healthcare,Los Angeles
+MERCH_00238,Merchant_238,Utilities,Austin
+MERCH_00239,Merchant_239,Healthcare,San Antonio
+MERCH_00240,Merchant_240,Grocery,New York
+MERCH_00241,Merchant_241,Healthcare,Austin
+MERCH_00242,Merchant_242,Electronics,Phoenix
+MERCH_00243,Merchant_243,Grocery,New York
+MERCH_00244,Merchant_244,Utilities,Philadelphia
+MERCH_00245,Merchant_245,Utilities,San Antonio
+MERCH_00246,Merchant_246,Entertainment,San Diego
+MERCH_00247,Merchant_247,Entertainment,Chicago
+MERCH_00248,Merchant_248,Grocery,Chicago
+MERCH_00249,Merchant_249,Utilities,New York
+MERCH_00250,Merchant_250,Grocery,Chicago
+MERCH_00251,Merchant_251,Entertainment,Phoenix
+MERCH_00252,Merchant_252,Utilities,Philadelphia
+MERCH_00253,Merchant_253,Utilities,Chicago
+MERCH_00254,Merchant_254,Electronics,Houston
+MERCH_00255,Merchant_255,Travel,Phoenix
+MERCH_00256,Merchant_256,Restaurant,Phoenix
+MERCH_00257,Merchant_257,Restaurant,Dallas
+MERCH_00258,Merchant_258,Other,San Diego
+MERCH_00259,Merchant_259,Utilities,New York
+MERCH_00260,Merchant_260,Grocery,Los Angeles
+MERCH_00261,Merchant_261,Other,Phoenix
+MERCH_00262,Merchant_262,Electronics,Chicago
+MERCH_00263,Merchant_263,Entertainment,San Antonio
+MERCH_00264,Merchant_264,Other,Philadelphia
+MERCH_00265,Merchant_265,Travel,Los Angeles
+MERCH_00266,Merchant_266,Travel,San Diego
+MERCH_00267,Merchant_267,Travel,Phoenix
+MERCH_00268,Merchant_268,Healthcare,Philadelphia
+MERCH_00269,Merchant_269,Entertainment,San Diego
+MERCH_00270,Merchant_270,Electronics,Philadelphia
+MERCH_00271,Merchant_271,Other,Austin
+MERCH_00272,Merchant_272,Restaurant,Chicago
+MERCH_00273,Merchant_273,Other,San Antonio
+MERCH_00274,Merchant_274,Travel,Houston
+MERCH_00275,Merchant_275,Other,Philadelphia
+MERCH_00276,Merchant_276,Electronics,Philadelphia
+MERCH_00277,Merchant_277,Online Retail,Phoenix
+MERCH_00278,Merchant_278,Other,New York
+MERCH_00279,Merchant_279,Electronics,San Diego
+MERCH_00280,Merchant_280,Utilities,Austin
+MERCH_00281,Merchant_281,Restaurant,Los Angeles
+MERCH_00282,Merchant_282,Travel,Houston
+MERCH_00283,Merchant_283,Utilities,Chicago
+MERCH_00284,Merchant_284,Other,Philadelphia
+MERCH_00285,Merchant_285,Electronics,New York
+MERCH_00286,Merchant_286,Travel,Dallas
+MERCH_00287,Merchant_287,Other,Phoenix
+MERCH_00288,Merchant_288,Online Retail,Phoenix
+MERCH_00289,Merchant_289,Electronics,Houston
+MERCH_00290,Merchant_290,Healthcare,Houston
+MERCH_00291,Merchant_291,Grocery,New York
+MERCH_00292,Merchant_292,Grocery,Dallas
+MERCH_00293,Merchant_293,Other,Dallas
+MERCH_00294,Merchant_294,Online Retail,Houston
+MERCH_00295,Merchant_295,Other,Austin
+MERCH_00296,Merchant_296,Gas Station,Austin
+MERCH_00297,Merchant_297,Electronics,Houston
+MERCH_00298,Merchant_298,Other,San Antonio
+MERCH_00299,Merchant_299,Healthcare,Houston
+MERCH_00300,Merchant_300,Grocery,New York
+MERCH_00301,Merchant_301,Electronics,Dallas
+MERCH_00302,Merchant_302,Electronics,Los Angeles
+MERCH_00303,Merchant_303,Restaurant,Phoenix
+MERCH_00304,Merchant_304,Electronics,Houston
+MERCH_00305,Merchant_305,Healthcare,San Diego
+MERCH_00306,Merchant_306,Other,Philadelphia
+MERCH_00307,Merchant_307,Entertainment,San Antonio
+MERCH_00308,Merchant_308,Restaurant,Los Angeles
+MERCH_00309,Merchant_309,Travel,Houston
+MERCH_00310,Merchant_310,Other,Houston
+MERCH_00311,Merchant_311,Grocery,Los Angeles
+MERCH_00312,Merchant_312,Other,Austin
+MERCH_00313,Merchant_313,Other,Houston
+MERCH_00314,Merchant_314,Gas Station,Dallas
+MERCH_00315,Merchant_315,Travel,San Diego
+MERCH_00316,Merchant_316,Utilities,New York
+MERCH_00317,Merchant_317,Grocery,San Diego
+MERCH_00318,Merchant_318,Travel,Dallas
+MERCH_00319,Merchant_319,Restaurant,San Diego
+MERCH_00320,Merchant_320,Utilities,Austin
+MERCH_00321,Merchant_321,Restaurant,New York
+MERCH_00322,Merchant_322,Gas Station,San Diego
+MERCH_00323,Merchant_323,Restaurant,Phoenix
+MERCH_00324,Merchant_324,Online Retail,Dallas
+MERCH_00325,Merchant_325,Online Retail,Dallas
+MERCH_00326,Merchant_326,Other,Philadelphia
+MERCH_00327,Merchant_327,Grocery,Chicago
+MERCH_00328,Merchant_328,Healthcare,San Antonio
+MERCH_00329,Merchant_329,Electronics,Chicago
+MERCH_00330,Merchant_330,Healthcare,San Antonio
+MERCH_00331,Merchant_331,Travel,San Diego
+MERCH_00332,Merchant_332,Restaurant,Phoenix
+MERCH_00333,Merchant_333,Entertainment,Phoenix
+MERCH_00334,Merchant_334,Other,Houston
+MERCH_00335,Merchant_335,Utilities,Chicago
+MERCH_00336,Merchant_336,Entertainment,San Diego
+MERCH_00337,Merchant_337,Electronics,Philadelphia
+MERCH_00338,Merchant_338,Online Retail,Philadelphia
+MERCH_00339,Merchant_339,Healthcare,Los Angeles
+MERCH_00340,Merchant_340,Travel,Houston
+MERCH_00341,Merchant_341,Electronics,Phoenix
+MERCH_00342,Merchant_342,Entertainment,Austin
+MERCH_00343,Merchant_343,Gas Station,Phoenix
+MERCH_00344,Merchant_344,Utilities,Chicago
+MERCH_00345,Merchant_345,Online Retail,Austin
+MERCH_00346,Merchant_346,Online Retail,Phoenix
+MERCH_00347,Merchant_347,Healthcare,Phoenix
+MERCH_00348,Merchant_348,Travel,Los Angeles
+MERCH_00349,Merchant_349,Grocery,Phoenix
+MERCH_00350,Merchant_350,Restaurant,Chicago
+MERCH_00351,Merchant_351,Utilities,Chicago
+MERCH_00352,Merchant_352,Travel,Phoenix
+MERCH_00353,Merchant_353,Entertainment,Dallas
+MERCH_00354,Merchant_354,Utilities,Los Angeles
+MERCH_00355,Merchant_355,Gas Station,Dallas
+MERCH_00356,Merchant_356,Electronics,Chicago
+MERCH_00357,Merchant_357,Electronics,San Antonio
+MERCH_00358,Merchant_358,Other,New York
+MERCH_00359,Merchant_359,Entertainment,New York
+MERCH_00360,Merchant_360,Restaurant,San Diego
+MERCH_00361,Merchant_361,Online Retail,Dallas
+MERCH_00362,Merchant_362,Online Retail,Chicago
+MERCH_00363,Merchant_363,Healthcare,Philadelphia
+MERCH_00364,Merchant_364,Other,Chicago
+MERCH_00365,Merchant_365,Gas Station,Philadelphia
+MERCH_00366,Merchant_366,Restaurant,San Antonio
+MERCH_00367,Merchant_367,Utilities,Phoenix
+MERCH_00368,Merchant_368,Online Retail,Chicago
+MERCH_00369,Merchant_369,Utilities,San Diego
+MERCH_00370,Merchant_370,Travel,Phoenix
+MERCH_00371,Merchant_371,Grocery,New York
+MERCH_00372,Merchant_372,Gas Station,Dallas
+MERCH_00373,Merchant_373,Entertainment,Chicago
+MERCH_00374,Merchant_374,Utilities,Los Angeles
+MERCH_00375,Merchant_375,Healthcare,Chicago
+MERCH_00376,Merchant_376,Electronics,San Antonio
+MERCH_00377,Merchant_377,Healthcare,Austin
+MERCH_00378,Merchant_378,Restaurant,San Diego
+MERCH_00379,Merchant_379,Gas Station,Los Angeles
+MERCH_00380,Merchant_380,Healthcare,San Antonio
+MERCH_00381,Merchant_381,Utilities,Phoenix
+MERCH_00382,Merchant_382,Other,Dallas
+MERCH_00383,Merchant_383,Healthcare,San Antonio
+MERCH_00384,Merchant_384,Online Retail,New York
+MERCH_00385,Merchant_385,Travel,New York
+MERCH_00386,Merchant_386,Electronics,Philadelphia
+MERCH_00387,Merchant_387,Online Retail,Dallas
+MERCH_00388,Merchant_388,Utilities,New York
+MERCH_00389,Merchant_389,Other,Chicago
+MERCH_00390,Merchant_390,Gas Station,Phoenix
+MERCH_00391,Merchant_391,Grocery,Houston
+MERCH_00392,Merchant_392,Entertainment,New York
+MERCH_00393,Merchant_393,Other,Austin
+MERCH_00394,Merchant_394,Healthcare,Houston
+MERCH_00395,Merchant_395,Gas Station,Houston
+MERCH_00396,Merchant_396,Gas Station,Austin
+MERCH_00397,Merchant_397,Travel,Houston
+MERCH_00398,Merchant_398,Restaurant,Chicago
+MERCH_00399,Merchant_399,Travel,San Antonio
+MERCH_00400,Merchant_400,Electronics,New York
+MERCH_00401,Merchant_401,Entertainment,Los Angeles
+MERCH_00402,Merchant_402,Utilities,New York
+MERCH_00403,Merchant_403,Utilities,Houston
+MERCH_00404,Merchant_404,Grocery,Phoenix
+MERCH_00405,Merchant_405,Entertainment,Austin
+MERCH_00406,Merchant_406,Gas Station,Phoenix
+MERCH_00407,Merchant_407,Online Retail,Los Angeles
+MERCH_00408,Merchant_408,Restaurant,Chicago
+MERCH_00409,Merchant_409,Grocery,Houston
+MERCH_00410,Merchant_410,Other,Austin
+MERCH_00411,Merchant_411,Gas Station,Philadelphia
+MERCH_00412,Merchant_412,Other,Philadelphia
+MERCH_00413,Merchant_413,Utilities,Los Angeles
+MERCH_00414,Merchant_414,Grocery,Los Angeles
+MERCH_00415,Merchant_415,Gas Station,Dallas
+MERCH_00416,Merchant_416,Electronics,Los Angeles
+MERCH_00417,Merchant_417,Gas Station,Los Angeles
+MERCH_00418,Merchant_418,Online Retail,Chicago
+MERCH_00419,Merchant_419,Online Retail,Dallas
+MERCH_00420,Merchant_420,Grocery,Philadelphia
+MERCH_00421,Merchant_421,Travel,Philadelphia
+MERCH_00422,Merchant_422,Entertainment,Austin
+MERCH_00423,Merchant_423,Entertainment,Phoenix
+MERCH_00424,Merchant_424,Travel,San Antonio
+MERCH_00425,Merchant_425,Entertainment,Houston
+MERCH_00426,Merchant_426,Gas Station,Austin
+MERCH_00427,Merchant_427,Electronics,Austin
+MERCH_00428,Merchant_428,Entertainment,Chicago
+MERCH_00429,Merchant_429,Other,San Antonio
+MERCH_00430,Merchant_430,Electronics,Austin
+MERCH_00431,Merchant_431,Other,New York
+MERCH_00432,Merchant_432,Restaurant,Philadelphia
+MERCH_00433,Merchant_433,Travel,Los Angeles
+MERCH_00434,Merchant_434,Entertainment,Los Angeles
+MERCH_00435,Merchant_435,Restaurant,San Diego
+MERCH_00436,Merchant_436,Other,Chicago
+MERCH_00437,Merchant_437,Healthcare,Dallas
+MERCH_00438,Merchant_438,Electronics,Houston
+MERCH_00439,Merchant_439,Healthcare,Philadelphia
+MERCH_00440,Merchant_440,Gas Station,New York
+MERCH_00441,Merchant_441,Restaurant,Austin
+MERCH_00442,Merchant_442,Entertainment,Austin
+MERCH_00443,Merchant_443,Electronics,Chicago
+MERCH_00444,Merchant_444,Electronics,Houston
+MERCH_00445,Merchant_445,Healthcare,Phoenix
+MERCH_00446,Merchant_446,Utilities,New York
+MERCH_00447,Merchant_447,Healthcare,Houston
+MERCH_00448,Merchant_448,Other,Phoenix
+MERCH_00449,Merchant_449,Restaurant,Houston
+MERCH_00450,Merchant_450,Other,Austin
+MERCH_00451,Merchant_451,Entertainment,Austin
+MERCH_00452,Merchant_452,Electronics,San Antonio
+MERCH_00453,Merchant_453,Entertainment,San Diego
+MERCH_00454,Merchant_454,Gas Station,San Diego
+MERCH_00455,Merchant_455,Online Retail,Chicago
+MERCH_00456,Merchant_456,Entertainment,Phoenix
+MERCH_00457,Merchant_457,Restaurant,Austin
+MERCH_00458,Merchant_458,Restaurant,San Diego
+MERCH_00459,Merchant_459,Grocery,San Antonio
+MERCH_00460,Merchant_460,Grocery,Dallas
+MERCH_00461,Merchant_461,Grocery,Austin
+MERCH_00462,Merchant_462,Travel,San Antonio
+MERCH_00463,Merchant_463,Electronics,Los Angeles
+MERCH_00464,Merchant_464,Other,Houston
+MERCH_00465,Merchant_465,Healthcare,San Diego
+MERCH_00466,Merchant_466,Electronics,Dallas
+MERCH_00467,Merchant_467,Grocery,San Antonio
+MERCH_00468,Merchant_468,Healthcare,Phoenix
+MERCH_00469,Merchant_469,Travel,New York
+MERCH_00470,Merchant_470,Healthcare,Dallas
+MERCH_00471,Merchant_471,Restaurant,Philadelphia
+MERCH_00472,Merchant_472,Other,Los Angeles
+MERCH_00473,Merchant_473,Healthcare,Austin
+MERCH_00474,Merchant_474,Travel,Austin
+MERCH_00475,Merchant_475,Grocery,Los Angeles
+MERCH_00476,Merchant_476,Grocery,Austin
+MERCH_00477,Merchant_477,Other,New York
+MERCH_00478,Merchant_478,Electronics,Houston
+MERCH_00479,Merchant_479,Entertainment,Austin
+MERCH_00480,Merchant_480,Online Retail,Los Angeles
+MERCH_00481,Merchant_481,Other,Austin
+MERCH_00482,Merchant_482,Electronics,Dallas
+MERCH_00483,Merchant_483,Other,Los Angeles
+MERCH_00484,Merchant_484,Gas Station,Dallas
+MERCH_00485,Merchant_485,Restaurant,New York
+MERCH_00486,Merchant_486,Restaurant,San Antonio
+MERCH_00487,Merchant_487,Electronics,Philadelphia
+MERCH_00488,Merchant_488,Online Retail,Philadelphia
+MERCH_00489,Merchant_489,Restaurant,Los Angeles
+MERCH_00490,Merchant_490,Electronics,New York
+MERCH_00491,Merchant_491,Other,Austin
+MERCH_00492,Merchant_492,Utilities,San Diego
+MERCH_00493,Merchant_493,Healthcare,San Diego
+MERCH_00494,Merchant_494,Utilities,Los Angeles
+MERCH_00495,Merchant_495,Utilities,Houston
+MERCH_00496,Merchant_496,Healthcare,Houston
+MERCH_00497,Merchant_497,Utilities,Los Angeles
+MERCH_00498,Merchant_498,Online Retail,Dallas
+MERCH_00499,Merchant_499,Healthcare,Houston
+MERCH_00500,Merchant_500,Restaurant,Houston
+MERCH_00501,Merchant_501,Utilities,Houston
+MERCH_00502,Merchant_502,Utilities,Phoenix
+MERCH_00503,Merchant_503,Gas Station,Austin
+MERCH_00504,Merchant_504,Travel,San Diego
+MERCH_00505,Merchant_505,Entertainment,Houston
+MERCH_00506,Merchant_506,Gas Station,Chicago
+MERCH_00507,Merchant_507,Electronics,New York
+MERCH_00508,Merchant_508,Grocery,Los Angeles
+MERCH_00509,Merchant_509,Gas Station,Houston
+MERCH_00510,Merchant_510,Healthcare,Dallas
+MERCH_00511,Merchant_511,Gas Station,New York
+MERCH_00512,Merchant_512,Healthcare,Philadelphia
+MERCH_00513,Merchant_513,Utilities,Philadelphia
+MERCH_00514,Merchant_514,Travel,Austin
+MERCH_00515,Merchant_515,Entertainment,Chicago
+MERCH_00516,Merchant_516,Travel,Austin
+MERCH_00517,Merchant_517,Healthcare,Dallas
+MERCH_00518,Merchant_518,Entertainment,Austin
+MERCH_00519,Merchant_519,Other,Chicago
+MERCH_00520,Merchant_520,Grocery,New York
+MERCH_00521,Merchant_521,Gas Station,Los Angeles
+MERCH_00522,Merchant_522,Gas Station,Houston
+MERCH_00523,Merchant_523,Gas Station,Houston
+MERCH_00524,Merchant_524,Online Retail,Los Angeles
+MERCH_00525,Merchant_525,Grocery,Austin
+MERCH_00526,Merchant_526,Restaurant,Philadelphia
+MERCH_00527,Merchant_527,Electronics,Philadelphia
+MERCH_00528,Merchant_528,Travel,Chicago
+MERCH_00529,Merchant_529,Utilities,New York
+MERCH_00530,Merchant_530,Restaurant,Austin
+MERCH_00531,Merchant_531,Utilities,Dallas
+MERCH_00532,Merchant_532,Entertainment,Houston
+MERCH_00533,Merchant_533,Utilities,Dallas
+MERCH_00534,Merchant_534,Online Retail,Phoenix
+MERCH_00535,Merchant_535,Entertainment,San Antonio
+MERCH_00536,Merchant_536,Grocery,Chicago
+MERCH_00537,Merchant_537,Healthcare,Chicago
+MERCH_00538,Merchant_538,Entertainment,San Diego
+MERCH_00539,Merchant_539,Entertainment,New York
+MERCH_00540,Merchant_540,Restaurant,San Diego
+MERCH_00541,Merchant_541,Other,San Diego
+MERCH_00542,Merchant_542,Utilities,Chicago
+MERCH_00543,Merchant_543,Healthcare,New York
+MERCH_00544,Merchant_544,Grocery,Dallas
+MERCH_00545,Merchant_545,Grocery,Houston
+MERCH_00546,Merchant_546,Electronics,San Antonio
+MERCH_00547,Merchant_547,Restaurant,Dallas
+MERCH_00548,Merchant_548,Grocery,Chicago
+MERCH_00549,Merchant_549,Other,Phoenix
+MERCH_00550,Merchant_550,Healthcare,Austin
+MERCH_00551,Merchant_551,Online Retail,Chicago
+MERCH_00552,Merchant_552,Restaurant,Phoenix
+MERCH_00553,Merchant_553,Electronics,Los Angeles
+MERCH_00554,Merchant_554,Travel,Houston
+MERCH_00555,Merchant_555,Healthcare,Los Angeles
+MERCH_00556,Merchant_556,Entertainment,Chicago
+MERCH_00557,Merchant_557,Entertainment,Phoenix
+MERCH_00558,Merchant_558,Grocery,Dallas
+MERCH_00559,Merchant_559,Gas Station,Chicago
+MERCH_00560,Merchant_560,Gas Station,Austin
+MERCH_00561,Merchant_561,Entertainment,Philadelphia
+MERCH_00562,Merchant_562,Restaurant,Houston
+MERCH_00563,Merchant_563,Other,Houston
+MERCH_00564,Merchant_564,Entertainment,Austin
+MERCH_00565,Merchant_565,Utilities,Austin
+MERCH_00566,Merchant_566,Grocery,Phoenix
+MERCH_00567,Merchant_567,Restaurant,San Antonio
+MERCH_00568,Merchant_568,Travel,Houston
+MERCH_00569,Merchant_569,Restaurant,San Diego
+MERCH_00570,Merchant_570,Restaurant,Dallas
+MERCH_00571,Merchant_571,Electronics,Dallas
+MERCH_00572,Merchant_572,Entertainment,Dallas
+MERCH_00573,Merchant_573,Online Retail,Los Angeles
+MERCH_00574,Merchant_574,Travel,Chicago
+MERCH_00575,Merchant_575,Gas Station,Phoenix
+MERCH_00576,Merchant_576,Online Retail,New York
+MERCH_00577,Merchant_577,Online Retail,Houston
+MERCH_00578,Merchant_578,Online Retail,Phoenix
+MERCH_00579,Merchant_579,Grocery,Dallas
+MERCH_00580,Merchant_580,Online Retail,San Diego
+MERCH_00581,Merchant_581,Online Retail,New York
+MERCH_00582,Merchant_582,Travel,Chicago
+MERCH_00583,Merchant_583,Utilities,Chicago
+MERCH_00584,Merchant_584,Other,Philadelphia
+MERCH_00585,Merchant_585,Travel,Houston
+MERCH_00586,Merchant_586,Travel,Houston
+MERCH_00587,Merchant_587,Entertainment,New York
+MERCH_00588,Merchant_588,Entertainment,Austin
+MERCH_00589,Merchant_589,Grocery,Houston
+MERCH_00590,Merchant_590,Healthcare,New York
+MERCH_00591,Merchant_591,Grocery,Phoenix
+MERCH_00592,Merchant_592,Utilities,Chicago
+MERCH_00593,Merchant_593,Online Retail,Austin
+MERCH_00594,Merchant_594,Utilities,Phoenix
+MERCH_00595,Merchant_595,Healthcare,Chicago
+MERCH_00596,Merchant_596,Utilities,Phoenix
+MERCH_00597,Merchant_597,Travel,Houston
+MERCH_00598,Merchant_598,Utilities,Dallas
+MERCH_00599,Merchant_599,Online Retail,Philadelphia
+MERCH_00600,Merchant_600,Gas Station,Austin
+MERCH_00601,Merchant_601,Gas Station,Los Angeles
+MERCH_00602,Merchant_602,Healthcare,New York
+MERCH_00603,Merchant_603,Restaurant,New York
+MERCH_00604,Merchant_604,Travel,New York
+MERCH_00605,Merchant_605,Utilities,Dallas
+MERCH_00606,Merchant_606,Utilities,Phoenix
+MERCH_00607,Merchant_607,Healthcare,Houston
+MERCH_00608,Merchant_608,Healthcare,Austin
+MERCH_00609,Merchant_609,Grocery,Phoenix
+MERCH_00610,Merchant_610,Entertainment,Dallas
+MERCH_00611,Merchant_611,Grocery,Chicago
+MERCH_00612,Merchant_612,Utilities,Chicago
+MERCH_00613,Merchant_613,Gas Station,Los Angeles
+MERCH_00614,Merchant_614,Grocery,San Diego
+MERCH_00615,Merchant_615,Healthcare,San Antonio
+MERCH_00616,Merchant_616,Entertainment,Los Angeles
+MERCH_00617,Merchant_617,Restaurant,Houston
+MERCH_00618,Merchant_618,Entertainment,San Antonio
+MERCH_00619,Merchant_619,Electronics,New York
+MERCH_00620,Merchant_620,Entertainment,New York
+MERCH_00621,Merchant_621,Other,San Diego
+MERCH_00622,Merchant_622,Entertainment,Philadelphia
+MERCH_00623,Merchant_623,Restaurant,Los Angeles
+MERCH_00624,Merchant_624,Restaurant,Austin
+MERCH_00625,Merchant_625,Entertainment,Austin
+MERCH_00626,Merchant_626,Gas Station,New York
+MERCH_00627,Merchant_627,Online Retail,Chicago
+MERCH_00628,Merchant_628,Entertainment,Houston
+MERCH_00629,Merchant_629,Restaurant,Phoenix
+MERCH_00630,Merchant_630,Restaurant,Austin
+MERCH_00631,Merchant_631,Utilities,Chicago
+MERCH_00632,Merchant_632,Grocery,Phoenix
+MERCH_00633,Merchant_633,Gas Station,San Antonio
+MERCH_00634,Merchant_634,Other,Dallas
+MERCH_00635,Merchant_635,Online Retail,Phoenix
+MERCH_00636,Merchant_636,Electronics,Houston
+MERCH_00637,Merchant_637,Gas Station,Austin
+MERCH_00638,Merchant_638,Utilities,Dallas
+MERCH_00639,Merchant_639,Electronics,San Diego
+MERCH_00640,Merchant_640,Entertainment,Phoenix
+MERCH_00641,Merchant_641,Entertainment,Dallas
+MERCH_00642,Merchant_642,Utilities,Dallas
+MERCH_00643,Merchant_643,Restaurant,New York
+MERCH_00644,Merchant_644,Gas Station,Philadelphia
+MERCH_00645,Merchant_645,Online Retail,Phoenix
+MERCH_00646,Merchant_646,Healthcare,Philadelphia
+MERCH_00647,Merchant_647,Grocery,Austin
+MERCH_00648,Merchant_648,Utilities,Chicago
+MERCH_00649,Merchant_649,Electronics,Chicago
+MERCH_00650,Merchant_650,Online Retail,Austin
+MERCH_00651,Merchant_651,Healthcare,Phoenix
+MERCH_00652,Merchant_652,Utilities,San Antonio
+MERCH_00653,Merchant_653,Gas Station,Houston
+MERCH_00654,Merchant_654,Online Retail,Philadelphia
+MERCH_00655,Merchant_655,Grocery,Phoenix
+MERCH_00656,Merchant_656,Gas Station,Los Angeles
+MERCH_00657,Merchant_657,Other,New York
+MERCH_00658,Merchant_658,Electronics,Philadelphia
+MERCH_00659,Merchant_659,Healthcare,Phoenix
+MERCH_00660,Merchant_660,Grocery,Dallas
+MERCH_00661,Merchant_661,Grocery,San Antonio
+MERCH_00662,Merchant_662,Gas Station,New York
+MERCH_00663,Merchant_663,Utilities,Austin
+MERCH_00664,Merchant_664,Utilities,Philadelphia
+MERCH_00665,Merchant_665,Grocery,San Antonio
+MERCH_00666,Merchant_666,Online Retail,Chicago
+MERCH_00667,Merchant_667,Healthcare,Dallas
+MERCH_00668,Merchant_668,Restaurant,Los Angeles
+MERCH_00669,Merchant_669,Online Retail,New York
+MERCH_00670,Merchant_670,Entertainment,Austin
+MERCH_00671,Merchant_671,Entertainment,Austin
+MERCH_00672,Merchant_672,Electronics,Dallas
+MERCH_00673,Merchant_673,Entertainment,San Antonio
+MERCH_00674,Merchant_674,Travel,Austin
+MERCH_00675,Merchant_675,Restaurant,New York
+MERCH_00676,Merchant_676,Utilities,Houston
+MERCH_00677,Merchant_677,Electronics,Austin
+MERCH_00678,Merchant_678,Restaurant,Chicago
+MERCH_00679,Merchant_679,Travel,San Antonio
+MERCH_00680,Merchant_680,Other,Phoenix
+MERCH_00681,Merchant_681,Electronics,Dallas
+MERCH_00682,Merchant_682,Restaurant,Chicago
+MERCH_00683,Merchant_683,Other,Philadelphia
+MERCH_00684,Merchant_684,Other,Austin
+MERCH_00685,Merchant_685,Entertainment,Los Angeles
+MERCH_00686,Merchant_686,Other,Chicago
+MERCH_00687,Merchant_687,Restaurant,Houston
+MERCH_00688,Merchant_688,Entertainment,Philadelphia
+MERCH_00689,Merchant_689,Travel,New York
+MERCH_00690,Merchant_690,Online Retail,Philadelphia
+MERCH_00691,Merchant_691,Online Retail,Houston
+MERCH_00692,Merchant_692,Travel,San Diego
+MERCH_00693,Merchant_693,Utilities,Dallas
+MERCH_00694,Merchant_694,Other,San Diego
+MERCH_00695,Merchant_695,Travel,San Diego
+MERCH_00696,Merchant_696,Travel,Los Angeles
+MERCH_00697,Merchant_697,Grocery,Austin
+MERCH_00698,Merchant_698,Electronics,Los Angeles
+MERCH_00699,Merchant_699,Grocery,Philadelphia
+MERCH_00700,Merchant_700,Utilities,Phoenix
+MERCH_00701,Merchant_701,Other,Philadelphia
+MERCH_00702,Merchant_702,Online Retail,Dallas
+MERCH_00703,Merchant_703,Restaurant,Austin
+MERCH_00704,Merchant_704,Utilities,San Antonio
+MERCH_00705,Merchant_705,Travel,Phoenix
+MERCH_00706,Merchant_706,Other,Austin
+MERCH_00707,Merchant_707,Gas Station,San Antonio
+MERCH_00708,Merchant_708,Restaurant,San Diego
+MERCH_00709,Merchant_709,Travel,New York
+MERCH_00710,Merchant_710,Other,Austin
+MERCH_00711,Merchant_711,Travel,San Antonio
+MERCH_00712,Merchant_712,Utilities,Houston
+MERCH_00713,Merchant_713,Electronics,Phoenix
+MERCH_00714,Merchant_714,Utilities,Los Angeles
+MERCH_00715,Merchant_715,Electronics,Austin
+MERCH_00716,Merchant_716,Restaurant,Phoenix
+MERCH_00717,Merchant_717,Grocery,Dallas
+MERCH_00718,Merchant_718,Utilities,New York
+MERCH_00719,Merchant_719,Other,Chicago
+MERCH_00720,Merchant_720,Entertainment,Houston
+MERCH_00721,Merchant_721,Gas Station,Dallas
+MERCH_00722,Merchant_722,Travel,Los Angeles
+MERCH_00723,Merchant_723,Other,San Antonio
+MERCH_00724,Merchant_724,Online Retail,Dallas
+MERCH_00725,Merchant_725,Utilities,Austin
+MERCH_00726,Merchant_726,Restaurant,Houston
+MERCH_00727,Merchant_727,Online Retail,Phoenix
+MERCH_00728,Merchant_728,Grocery,Austin
+MERCH_00729,Merchant_729,Entertainment,Houston
+MERCH_00730,Merchant_730,Online Retail,San Antonio
+MERCH_00731,Merchant_731,Electronics,San Diego
+MERCH_00732,Merchant_732,Grocery,San Diego
+MERCH_00733,Merchant_733,Restaurant,Chicago
+MERCH_00734,Merchant_734,Online Retail,Los Angeles
+MERCH_00735,Merchant_735,Restaurant,Philadelphia
+MERCH_00736,Merchant_736,Grocery,New York
+MERCH_00737,Merchant_737,Other,Dallas
+MERCH_00738,Merchant_738,Grocery,San Antonio
+MERCH_00739,Merchant_739,Travel,San Diego
+MERCH_00740,Merchant_740,Restaurant,San Antonio
+MERCH_00741,Merchant_741,Gas Station,Phoenix
+MERCH_00742,Merchant_742,Electronics,Phoenix
+MERCH_00743,Merchant_743,Gas Station,San Antonio
+MERCH_00744,Merchant_744,Travel,San Antonio
+MERCH_00745,Merchant_745,Entertainment,Los Angeles
+MERCH_00746,Merchant_746,Other,Los Angeles
+MERCH_00747,Merchant_747,Travel,San Antonio
+MERCH_00748,Merchant_748,Restaurant,Phoenix
+MERCH_00749,Merchant_749,Utilities,Los Angeles
+MERCH_00750,Merchant_750,Restaurant,New York
+MERCH_00751,Merchant_751,Travel,Dallas
+MERCH_00752,Merchant_752,Utilities,San Diego
+MERCH_00753,Merchant_753,Utilities,Los Angeles
+MERCH_00754,Merchant_754,Restaurant,Los Angeles
+MERCH_00755,Merchant_755,Utilities,Chicago
+MERCH_00756,Merchant_756,Healthcare,Houston
+MERCH_00757,Merchant_757,Entertainment,Dallas
+MERCH_00758,Merchant_758,Healthcare,Philadelphia
+MERCH_00759,Merchant_759,Other,Chicago
+MERCH_00760,Merchant_760,Healthcare,San Diego
+MERCH_00761,Merchant_761,Grocery,Philadelphia
+MERCH_00762,Merchant_762,Utilities,San Diego
+MERCH_00763,Merchant_763,Travel,Austin
+MERCH_00764,Merchant_764,Grocery,Los Angeles
+MERCH_00765,Merchant_765,Grocery,San Diego
+MERCH_00766,Merchant_766,Entertainment,Phoenix
+MERCH_00767,Merchant_767,Other,Austin
+MERCH_00768,Merchant_768,Restaurant,Houston
+MERCH_00769,Merchant_769,Travel,Chicago
+MERCH_00770,Merchant_770,Electronics,Dallas
+MERCH_00771,Merchant_771,Electronics,Austin
+MERCH_00772,Merchant_772,Other,San Antonio
+MERCH_00773,Merchant_773,Travel,San Antonio
+MERCH_00774,Merchant_774,Healthcare,Philadelphia
+MERCH_00775,Merchant_775,Electronics,Dallas
+MERCH_00776,Merchant_776,Healthcare,Chicago
+MERCH_00777,Merchant_777,Electronics,New York
+MERCH_00778,Merchant_778,Other,San Antonio
+MERCH_00779,Merchant_779,Travel,Dallas
+MERCH_00780,Merchant_780,Healthcare,Philadelphia
+MERCH_00781,Merchant_781,Restaurant,Austin
+MERCH_00782,Merchant_782,Entertainment,Los Angeles
+MERCH_00783,Merchant_783,Gas Station,San Diego
+MERCH_00784,Merchant_784,Utilities,Dallas
+MERCH_00785,Merchant_785,Other,Austin
+MERCH_00786,Merchant_786,Entertainment,San Diego
+MERCH_00787,Merchant_787,Gas Station,Dallas
+MERCH_00788,Merchant_788,Healthcare,New York
+MERCH_00789,Merchant_789,Other,Chicago
+MERCH_00790,Merchant_790,Restaurant,Chicago
+MERCH_00791,Merchant_791,Other,Dallas
+MERCH_00792,Merchant_792,Healthcare,Chicago
+MERCH_00793,Merchant_793,Entertainment,Austin
+MERCH_00794,Merchant_794,Electronics,New York
+MERCH_00795,Merchant_795,Online Retail,Chicago
+MERCH_00796,Merchant_796,Other,Los Angeles
+MERCH_00797,Merchant_797,Other,Dallas
+MERCH_00798,Merchant_798,Grocery,New York
+MERCH_00799,Merchant_799,Online Retail,Los Angeles
+MERCH_00800,Merchant_800,Travel,New York
+MERCH_00801,Merchant_801,Travel,Dallas
+MERCH_00802,Merchant_802,Restaurant,San Antonio
+MERCH_00803,Merchant_803,Utilities,New York
+MERCH_00804,Merchant_804,Grocery,Austin
+MERCH_00805,Merchant_805,Online Retail,Philadelphia
+MERCH_00806,Merchant_806,Online Retail,Phoenix
+MERCH_00807,Merchant_807,Restaurant,Austin
+MERCH_00808,Merchant_808,Healthcare,Phoenix
+MERCH_00809,Merchant_809,Restaurant,Houston
+MERCH_00810,Merchant_810,Restaurant,Chicago
+MERCH_00811,Merchant_811,Restaurant,San Diego
+MERCH_00812,Merchant_812,Grocery,San Antonio
+MERCH_00813,Merchant_813,Electronics,Phoenix
+MERCH_00814,Merchant_814,Online Retail,Dallas
+MERCH_00815,Merchant_815,Restaurant,San Antonio
+MERCH_00816,Merchant_816,Grocery,Austin
+MERCH_00817,Merchant_817,Grocery,Los Angeles
+MERCH_00818,Merchant_818,Restaurant,San Antonio
+MERCH_00819,Merchant_819,Grocery,San Antonio
+MERCH_00820,Merchant_820,Utilities,Houston
+MERCH_00821,Merchant_821,Restaurant,San Diego
+MERCH_00822,Merchant_822,Gas Station,Houston
+MERCH_00823,Merchant_823,Utilities,San Antonio
+MERCH_00824,Merchant_824,Electronics,Houston
+MERCH_00825,Merchant_825,Healthcare,San Diego
+MERCH_00826,Merchant_826,Entertainment,Chicago
+MERCH_00827,Merchant_827,Travel,Los Angeles
+MERCH_00828,Merchant_828,Restaurant,Austin
+MERCH_00829,Merchant_829,Online Retail,Philadelphia
+MERCH_00830,Merchant_830,Utilities,San Antonio
+MERCH_00831,Merchant_831,Entertainment,San Antonio
+MERCH_00832,Merchant_832,Gas Station,Philadelphia
+MERCH_00833,Merchant_833,Travel,San Diego
+MERCH_00834,Merchant_834,Healthcare,Philadelphia
+MERCH_00835,Merchant_835,Healthcare,Philadelphia
+MERCH_00836,Merchant_836,Healthcare,Chicago
+MERCH_00837,Merchant_837,Healthcare,Los Angeles
+MERCH_00838,Merchant_838,Other,San Antonio
+MERCH_00839,Merchant_839,Travel,Philadelphia
+MERCH_00840,Merchant_840,Other,New York
+MERCH_00841,Merchant_841,Gas Station,Los Angeles
+MERCH_00842,Merchant_842,Utilities,Los Angeles
+MERCH_00843,Merchant_843,Gas Station,New York
+MERCH_00844,Merchant_844,Online Retail,Chicago
+MERCH_00845,Merchant_845,Other,Phoenix
+MERCH_00846,Merchant_846,Grocery,Houston
+MERCH_00847,Merchant_847,Restaurant,Los Angeles
+MERCH_00848,Merchant_848,Travel,San Diego
+MERCH_00849,Merchant_849,Grocery,Dallas
+MERCH_00850,Merchant_850,Utilities,San Diego
+MERCH_00851,Merchant_851,Healthcare,San Antonio
+MERCH_00852,Merchant_852,Restaurant,Austin
+MERCH_00853,Merchant_853,Restaurant,Los Angeles
+MERCH_00854,Merchant_854,Healthcare,Philadelphia
+MERCH_00855,Merchant_855,Healthcare,Houston
+MERCH_00856,Merchant_856,Grocery,Phoenix
+MERCH_00857,Merchant_857,Electronics,Dallas
+MERCH_00858,Merchant_858,Restaurant,Dallas
+MERCH_00859,Merchant_859,Grocery,Houston
+MERCH_00860,Merchant_860,Gas Station,San Diego
+MERCH_00861,Merchant_861,Gas Station,Phoenix
+MERCH_00862,Merchant_862,Other,Dallas
+MERCH_00863,Merchant_863,Utilities,Los Angeles
+MERCH_00864,Merchant_864,Other,Houston
+MERCH_00865,Merchant_865,Grocery,Chicago
+MERCH_00866,Merchant_866,Restaurant,San Antonio
+MERCH_00867,Merchant_867,Utilities,Los Angeles
+MERCH_00868,Merchant_868,Electronics,Chicago
+MERCH_00869,Merchant_869,Utilities,Dallas
+MERCH_00870,Merchant_870,Travel,San Diego
+MERCH_00871,Merchant_871,Other,Los Angeles
+MERCH_00872,Merchant_872,Other,Philadelphia
+MERCH_00873,Merchant_873,Gas Station,Chicago
+MERCH_00874,Merchant_874,Healthcare,Philadelphia
+MERCH_00875,Merchant_875,Utilities,Phoenix
+MERCH_00876,Merchant_876,Restaurant,Austin
+MERCH_00877,Merchant_877,Utilities,Houston
+MERCH_00878,Merchant_878,Online Retail,San Antonio
+MERCH_00879,Merchant_879,Healthcare,Austin
+MERCH_00880,Merchant_880,Electronics,San Antonio
+MERCH_00881,Merchant_881,Travel,Houston
+MERCH_00882,Merchant_882,Online Retail,Chicago
+MERCH_00883,Merchant_883,Electronics,Houston
+MERCH_00884,Merchant_884,Grocery,Los Angeles
+MERCH_00885,Merchant_885,Gas Station,Houston
+MERCH_00886,Merchant_886,Online Retail,Houston
+MERCH_00887,Merchant_887,Grocery,Phoenix
+MERCH_00888,Merchant_888,Gas Station,New York
+MERCH_00889,Merchant_889,Online Retail,Los Angeles
+MERCH_00890,Merchant_890,Utilities,San Diego
+MERCH_00891,Merchant_891,Gas Station,San Diego
+MERCH_00892,Merchant_892,Gas Station,San Diego
+MERCH_00893,Merchant_893,Online Retail,Phoenix
+MERCH_00894,Merchant_894,Utilities,San Diego
+MERCH_00895,Merchant_895,Utilities,Dallas
+MERCH_00896,Merchant_896,Grocery,Houston
+MERCH_00897,Merchant_897,Healthcare,Houston
+MERCH_00898,Merchant_898,Other,San Antonio
+MERCH_00899,Merchant_899,Grocery,Phoenix
+MERCH_00900,Merchant_900,Restaurant,Austin
+MERCH_00901,Merchant_901,Other,New York
+MERCH_00902,Merchant_902,Electronics,San Diego
+MERCH_00903,Merchant_903,Travel,Houston
+MERCH_00904,Merchant_904,Restaurant,San Diego
+MERCH_00905,Merchant_905,Other,Los Angeles
+MERCH_00906,Merchant_906,Electronics,Houston
+MERCH_00907,Merchant_907,Gas Station,Los Angeles
+MERCH_00908,Merchant_908,Entertainment,Phoenix
+MERCH_00909,Merchant_909,Grocery,Austin
+MERCH_00910,Merchant_910,Electronics,Austin
+MERCH_00911,Merchant_911,Gas Station,San Diego
+MERCH_00912,Merchant_912,Restaurant,San Antonio
+MERCH_00913,Merchant_913,Gas Station,Phoenix
+MERCH_00914,Merchant_914,Other,San Antonio
+MERCH_00915,Merchant_915,Online Retail,Phoenix
+MERCH_00916,Merchant_916,Restaurant,San Antonio
+MERCH_00917,Merchant_917,Restaurant,Houston
+MERCH_00918,Merchant_918,Gas Station,Houston
+MERCH_00919,Merchant_919,Restaurant,Austin
+MERCH_00920,Merchant_920,Travel,Houston
+MERCH_00921,Merchant_921,Restaurant,San Diego
+MERCH_00922,Merchant_922,Grocery,New York
+MERCH_00923,Merchant_923,Healthcare,Austin
+MERCH_00924,Merchant_924,Other,Phoenix
+MERCH_00925,Merchant_925,Online Retail,Austin
+MERCH_00926,Merchant_926,Restaurant,Los Angeles
+MERCH_00927,Merchant_927,Online Retail,Austin
+MERCH_00928,Merchant_928,Restaurant,Houston
+MERCH_00929,Merchant_929,Electronics,Phoenix
+MERCH_00930,Merchant_930,Entertainment,San Diego
+MERCH_00931,Merchant_931,Travel,Los Angeles
+MERCH_00932,Merchant_932,Restaurant,Los Angeles
+MERCH_00933,Merchant_933,Online Retail,Los Angeles
+MERCH_00934,Merchant_934,Healthcare,San Diego
+MERCH_00935,Merchant_935,Entertainment,Chicago
+MERCH_00936,Merchant_936,Entertainment,Phoenix
+MERCH_00937,Merchant_937,Online Retail,Los Angeles
+MERCH_00938,Merchant_938,Grocery,Philadelphia
+MERCH_00939,Merchant_939,Entertainment,Austin
+MERCH_00940,Merchant_940,Travel,Philadelphia
+MERCH_00941,Merchant_941,Healthcare,Los Angeles
+MERCH_00942,Merchant_942,Electronics,Houston
+MERCH_00943,Merchant_943,Healthcare,Los Angeles
+MERCH_00944,Merchant_944,Other,Austin
+MERCH_00945,Merchant_945,Healthcare,Houston
+MERCH_00946,Merchant_946,Utilities,San Antonio
+MERCH_00947,Merchant_947,Grocery,Phoenix
+MERCH_00948,Merchant_948,Gas Station,Austin
+MERCH_00949,Merchant_949,Travel,Houston
+MERCH_00950,Merchant_950,Online Retail,Austin
+MERCH_00951,Merchant_951,Healthcare,Austin
+MERCH_00952,Merchant_952,Other,Chicago
+MERCH_00953,Merchant_953,Grocery,Philadelphia
+MERCH_00954,Merchant_954,Electronics,Los Angeles
+MERCH_00955,Merchant_955,Online Retail,Houston
+MERCH_00956,Merchant_956,Grocery,San Diego
+MERCH_00957,Merchant_957,Other,Los Angeles
+MERCH_00958,Merchant_958,Travel,Dallas
+MERCH_00959,Merchant_959,Other,Los Angeles
+MERCH_00960,Merchant_960,Gas Station,San Diego
+MERCH_00961,Merchant_961,Electronics,San Diego
+MERCH_00962,Merchant_962,Travel,San Antonio
+MERCH_00963,Merchant_963,Online Retail,Austin
+MERCH_00964,Merchant_964,Other,Philadelphia
+MERCH_00965,Merchant_965,Other,New York
+MERCH_00966,Merchant_966,Travel,Los Angeles
+MERCH_00967,Merchant_967,Entertainment,San Antonio
+MERCH_00968,Merchant_968,Restaurant,Houston
+MERCH_00969,Merchant_969,Entertainment,Dallas
+MERCH_00970,Merchant_970,Entertainment,Chicago
+MERCH_00971,Merchant_971,Restaurant,Houston
+MERCH_00972,Merchant_972,Gas Station,Chicago
+MERCH_00973,Merchant_973,Gas Station,San Antonio
+MERCH_00974,Merchant_974,Grocery,Los Angeles
+MERCH_00975,Merchant_975,Grocery,Austin
+MERCH_00976,Merchant_976,Other,Los Angeles
+MERCH_00977,Merchant_977,Travel,Los Angeles
+MERCH_00978,Merchant_978,Utilities,Houston
+MERCH_00979,Merchant_979,Utilities,San Diego
+MERCH_00980,Merchant_980,Grocery,San Diego
+MERCH_00981,Merchant_981,Entertainment,San Diego
+MERCH_00982,Merchant_982,Travel,San Diego
+MERCH_00983,Merchant_983,Online Retail,San Antonio
+MERCH_00984,Merchant_984,Gas Station,Philadelphia
+MERCH_00985,Merchant_985,Utilities,San Antonio
+MERCH_00986,Merchant_986,Other,Phoenix
+MERCH_00987,Merchant_987,Electronics,San Diego
+MERCH_00988,Merchant_988,Healthcare,Los Angeles
+MERCH_00989,Merchant_989,Online Retail,Phoenix
+MERCH_00990,Merchant_990,Online Retail,San Antonio
+MERCH_00991,Merchant_991,Travel,Dallas
+MERCH_00992,Merchant_992,Travel,Austin
+MERCH_00993,Merchant_993,Gas Station,New York
+MERCH_00994,Merchant_994,Restaurant,Dallas
+MERCH_00995,Merchant_995,Utilities,Chicago
+MERCH_00996,Merchant_996,Restaurant,New York
+MERCH_00997,Merchant_997,Utilities,San Antonio
+MERCH_00998,Merchant_998,Healthcare,Chicago
+MERCH_00999,Merchant_999,Other,San Diego
+MERCH_01000,Merchant_1000,Entertainment,Los Angeles
+MERCH_01001,Merchant_1001,Electronics,Houston
+MERCH_01002,Merchant_1002,Gas Station,Los Angeles
+MERCH_01003,Merchant_1003,Restaurant,Houston
+MERCH_01004,Merchant_1004,Healthcare,New York
+MERCH_01005,Merchant_1005,Restaurant,Austin
+MERCH_01006,Merchant_1006,Healthcare,Phoenix
+MERCH_01007,Merchant_1007,Electronics,Chicago
+MERCH_01008,Merchant_1008,Utilities,Dallas
+MERCH_01009,Merchant_1009,Online Retail,Houston
+MERCH_01010,Merchant_1010,Healthcare,Philadelphia
+MERCH_01011,Merchant_1011,Entertainment,Dallas
+MERCH_01012,Merchant_1012,Healthcare,Los Angeles
+MERCH_01013,Merchant_1013,Electronics,San Antonio
+MERCH_01014,Merchant_1014,Restaurant,Chicago
+MERCH_01015,Merchant_1015,Entertainment,New York
+MERCH_01016,Merchant_1016,Gas Station,Dallas
+MERCH_01017,Merchant_1017,Other,Dallas
+MERCH_01018,Merchant_1018,Other,Houston
+MERCH_01019,Merchant_1019,Other,Dallas
+MERCH_01020,Merchant_1020,Other,San Antonio
+MERCH_01021,Merchant_1021,Restaurant,Houston
+MERCH_01022,Merchant_1022,Gas Station,Los Angeles
+MERCH_01023,Merchant_1023,Online Retail,Phoenix
+MERCH_01024,Merchant_1024,Other,San Diego
+MERCH_01025,Merchant_1025,Entertainment,Austin
+MERCH_01026,Merchant_1026,Other,Austin
+MERCH_01027,Merchant_1027,Grocery,Philadelphia
+MERCH_01028,Merchant_1028,Travel,Phoenix
+MERCH_01029,Merchant_1029,Travel,Houston
+MERCH_01030,Merchant_1030,Healthcare,Philadelphia
+MERCH_01031,Merchant_1031,Restaurant,Chicago
+MERCH_01032,Merchant_1032,Restaurant,Los Angeles
+MERCH_01033,Merchant_1033,Grocery,New York
+MERCH_01034,Merchant_1034,Gas Station,Dallas
+MERCH_01035,Merchant_1035,Entertainment,New York
+MERCH_01036,Merchant_1036,Healthcare,Houston
+MERCH_01037,Merchant_1037,Entertainment,Philadelphia
+MERCH_01038,Merchant_1038,Utilities,Dallas
+MERCH_01039,Merchant_1039,Healthcare,Houston
+MERCH_01040,Merchant_1040,Healthcare,San Antonio
+MERCH_01041,Merchant_1041,Restaurant,San Antonio
+MERCH_01042,Merchant_1042,Grocery,Philadelphia
+MERCH_01043,Merchant_1043,Travel,Dallas
+MERCH_01044,Merchant_1044,Entertainment,Austin
+MERCH_01045,Merchant_1045,Travel,San Antonio
+MERCH_01046,Merchant_1046,Entertainment,Chicago
+MERCH_01047,Merchant_1047,Healthcare,Philadelphia
+MERCH_01048,Merchant_1048,Restaurant,San Antonio
+MERCH_01049,Merchant_1049,Grocery,San Antonio
+MERCH_01050,Merchant_1050,Other,Philadelphia
+MERCH_01051,Merchant_1051,Healthcare,Chicago
+MERCH_01052,Merchant_1052,Healthcare,Philadelphia
+MERCH_01053,Merchant_1053,Healthcare,Los Angeles
+MERCH_01054,Merchant_1054,Other,Austin
+MERCH_01055,Merchant_1055,Entertainment,New York
+MERCH_01056,Merchant_1056,Restaurant,San Diego
+MERCH_01057,Merchant_1057,Online Retail,Chicago
+MERCH_01058,Merchant_1058,Utilities,San Diego
+MERCH_01059,Merchant_1059,Healthcare,Chicago
+MERCH_01060,Merchant_1060,Online Retail,Los Angeles
+MERCH_01061,Merchant_1061,Healthcare,San Diego
+MERCH_01062,Merchant_1062,Other,Chicago
+MERCH_01063,Merchant_1063,Travel,San Diego
+MERCH_01064,Merchant_1064,Utilities,Los Angeles
+MERCH_01065,Merchant_1065,Grocery,Houston
+MERCH_01066,Merchant_1066,Travel,Dallas
+MERCH_01067,Merchant_1067,Online Retail,New York
+MERCH_01068,Merchant_1068,Gas Station,Los Angeles
+MERCH_01069,Merchant_1069,Electronics,Los Angeles
+MERCH_01070,Merchant_1070,Other,Dallas
+MERCH_01071,Merchant_1071,Healthcare,Austin
+MERCH_01072,Merchant_1072,Other,Phoenix
+MERCH_01073,Merchant_1073,Travel,Houston
+MERCH_01074,Merchant_1074,Grocery,Austin
+MERCH_01075,Merchant_1075,Travel,Austin
+MERCH_01076,Merchant_1076,Entertainment,Houston
+MERCH_01077,Merchant_1077,Travel,San Antonio
+MERCH_01078,Merchant_1078,Gas Station,Chicago
+MERCH_01079,Merchant_1079,Utilities,Dallas
+MERCH_01080,Merchant_1080,Other,Phoenix
+MERCH_01081,Merchant_1081,Other,Dallas
+MERCH_01082,Merchant_1082,Online Retail,New York
+MERCH_01083,Merchant_1083,Electronics,Austin
+MERCH_01084,Merchant_1084,Electronics,San Diego
+MERCH_01085,Merchant_1085,Gas Station,Los Angeles
+MERCH_01086,Merchant_1086,Restaurant,San Diego
+MERCH_01087,Merchant_1087,Healthcare,Houston
+MERCH_01088,Merchant_1088,Entertainment,Los Angeles
+MERCH_01089,Merchant_1089,Electronics,Los Angeles
+MERCH_01090,Merchant_1090,Grocery,Philadelphia
+MERCH_01091,Merchant_1091,Other,Chicago
+MERCH_01092,Merchant_1092,Grocery,Austin
+MERCH_01093,Merchant_1093,Healthcare,Chicago
+MERCH_01094,Merchant_1094,Online Retail,Dallas
+MERCH_01095,Merchant_1095,Online Retail,Phoenix
+MERCH_01096,Merchant_1096,Utilities,San Antonio
+MERCH_01097,Merchant_1097,Restaurant,Phoenix
+MERCH_01098,Merchant_1098,Electronics,Los Angeles
+MERCH_01099,Merchant_1099,Travel,San Diego
+MERCH_01100,Merchant_1100,Travel,Dallas
+MERCH_01101,Merchant_1101,Other,Los Angeles
+MERCH_01102,Merchant_1102,Gas Station,Los Angeles
+MERCH_01103,Merchant_1103,Other,Houston
+MERCH_01104,Merchant_1104,Travel,San Diego
+MERCH_01105,Merchant_1105,Other,Phoenix
+MERCH_01106,Merchant_1106,Other,Phoenix
+MERCH_01107,Merchant_1107,Electronics,San Antonio
+MERCH_01108,Merchant_1108,Healthcare,Houston
+MERCH_01109,Merchant_1109,Online Retail,Dallas
+MERCH_01110,Merchant_1110,Other,Houston
+MERCH_01111,Merchant_1111,Other,San Diego
+MERCH_01112,Merchant_1112,Gas Station,Chicago
+MERCH_01113,Merchant_1113,Travel,Philadelphia
+MERCH_01114,Merchant_1114,Other,New York
+MERCH_01115,Merchant_1115,Utilities,San Antonio
+MERCH_01116,Merchant_1116,Healthcare,San Antonio
+MERCH_01117,Merchant_1117,Other,Los Angeles
+MERCH_01118,Merchant_1118,Healthcare,Phoenix
+MERCH_01119,Merchant_1119,Gas Station,Houston
+MERCH_01120,Merchant_1120,Grocery,Austin
+MERCH_01121,Merchant_1121,Gas Station,Dallas
+MERCH_01122,Merchant_1122,Gas Station,Los Angeles
+MERCH_01123,Merchant_1123,Travel,Chicago
+MERCH_01124,Merchant_1124,Gas Station,New York
+MERCH_01125,Merchant_1125,Restaurant,Austin
+MERCH_01126,Merchant_1126,Utilities,Phoenix
+MERCH_01127,Merchant_1127,Travel,Chicago
+MERCH_01128,Merchant_1128,Electronics,Houston
+MERCH_01129,Merchant_1129,Gas Station,Houston
+MERCH_01130,Merchant_1130,Entertainment,Philadelphia
+MERCH_01131,Merchant_1131,Entertainment,Austin
+MERCH_01132,Merchant_1132,Online Retail,San Antonio
+MERCH_01133,Merchant_1133,Other,San Antonio
+MERCH_01134,Merchant_1134,Restaurant,San Diego
+MERCH_01135,Merchant_1135,Restaurant,Chicago
+MERCH_01136,Merchant_1136,Healthcare,Phoenix
+MERCH_01137,Merchant_1137,Online Retail,Austin
+MERCH_01138,Merchant_1138,Entertainment,Philadelphia
+MERCH_01139,Merchant_1139,Gas Station,Philadelphia
+MERCH_01140,Merchant_1140,Utilities,San Diego
+MERCH_01141,Merchant_1141,Other,Phoenix
+MERCH_01142,Merchant_1142,Utilities,Phoenix
+MERCH_01143,Merchant_1143,Entertainment,New York
+MERCH_01144,Merchant_1144,Entertainment,New York
+MERCH_01145,Merchant_1145,Grocery,Philadelphia
+MERCH_01146,Merchant_1146,Other,Austin
+MERCH_01147,Merchant_1147,Healthcare,Austin
+MERCH_01148,Merchant_1148,Restaurant,Phoenix
+MERCH_01149,Merchant_1149,Healthcare,Austin
+MERCH_01150,Merchant_1150,Restaurant,Philadelphia
+MERCH_01151,Merchant_1151,Grocery,Dallas
+MERCH_01152,Merchant_1152,Healthcare,San Diego
+MERCH_01153,Merchant_1153,Online Retail,San Antonio
+MERCH_01154,Merchant_1154,Other,San Antonio
+MERCH_01155,Merchant_1155,Travel,Philadelphia
+MERCH_01156,Merchant_1156,Other,Philadelphia
+MERCH_01157,Merchant_1157,Other,New York
+MERCH_01158,Merchant_1158,Grocery,San Antonio
+MERCH_01159,Merchant_1159,Utilities,Phoenix
+MERCH_01160,Merchant_1160,Entertainment,San Antonio
+MERCH_01161,Merchant_1161,Electronics,Philadelphia
+MERCH_01162,Merchant_1162,Travel,San Diego
+MERCH_01163,Merchant_1163,Gas Station,Chicago
+MERCH_01164,Merchant_1164,Utilities,San Diego
+MERCH_01165,Merchant_1165,Restaurant,San Antonio
+MERCH_01166,Merchant_1166,Other,New York
+MERCH_01167,Merchant_1167,Grocery,Chicago
+MERCH_01168,Merchant_1168,Grocery,Austin
+MERCH_01169,Merchant_1169,Other,Houston
+MERCH_01170,Merchant_1170,Restaurant,Dallas
+MERCH_01171,Merchant_1171,Travel,Philadelphia
+MERCH_01172,Merchant_1172,Travel,San Antonio
+MERCH_01173,Merchant_1173,Utilities,Phoenix
+MERCH_01174,Merchant_1174,Other,Chicago
+MERCH_01175,Merchant_1175,Online Retail,Phoenix
+MERCH_01176,Merchant_1176,Healthcare,San Antonio
+MERCH_01177,Merchant_1177,Online Retail,Dallas
+MERCH_01178,Merchant_1178,Gas Station,Dallas
+MERCH_01179,Merchant_1179,Online Retail,San Diego
+MERCH_01180,Merchant_1180,Grocery,Phoenix
+MERCH_01181,Merchant_1181,Utilities,San Antonio
+MERCH_01182,Merchant_1182,Electronics,Houston
+MERCH_01183,Merchant_1183,Entertainment,Austin
+MERCH_01184,Merchant_1184,Gas Station,Phoenix
+MERCH_01185,Merchant_1185,Electronics,Houston
+MERCH_01186,Merchant_1186,Other,Chicago
+MERCH_01187,Merchant_1187,Online Retail,New York
+MERCH_01188,Merchant_1188,Entertainment,Phoenix
+MERCH_01189,Merchant_1189,Electronics,Los Angeles
+MERCH_01190,Merchant_1190,Restaurant,Philadelphia
+MERCH_01191,Merchant_1191,Gas Station,Phoenix
+MERCH_01192,Merchant_1192,Healthcare,Los Angeles
+MERCH_01193,Merchant_1193,Gas Station,San Diego
+MERCH_01194,Merchant_1194,Entertainment,Phoenix
+MERCH_01195,Merchant_1195,Electronics,Los Angeles
+MERCH_01196,Merchant_1196,Entertainment,New York
+MERCH_01197,Merchant_1197,Other,Los Angeles
+MERCH_01198,Merchant_1198,Utilities,New York
+MERCH_01199,Merchant_1199,Entertainment,Austin
+MERCH_01200,Merchant_1200,Travel,Austin
+MERCH_01201,Merchant_1201,Grocery,Chicago
+MERCH_01202,Merchant_1202,Online Retail,Chicago
+MERCH_01203,Merchant_1203,Healthcare,Austin
+MERCH_01204,Merchant_1204,Grocery,New York
+MERCH_01205,Merchant_1205,Travel,San Antonio
+MERCH_01206,Merchant_1206,Restaurant,Austin
+MERCH_01207,Merchant_1207,Utilities,San Antonio
+MERCH_01208,Merchant_1208,Healthcare,Dallas
+MERCH_01209,Merchant_1209,Utilities,Phoenix
+MERCH_01210,Merchant_1210,Utilities,Houston
+MERCH_01211,Merchant_1211,Restaurant,Phoenix
+MERCH_01212,Merchant_1212,Restaurant,San Diego
+MERCH_01213,Merchant_1213,Utilities,San Diego
+MERCH_01214,Merchant_1214,Restaurant,Houston
+MERCH_01215,Merchant_1215,Online Retail,San Diego
+MERCH_01216,Merchant_1216,Restaurant,Houston
+MERCH_01217,Merchant_1217,Grocery,Houston
+MERCH_01218,Merchant_1218,Other,San Diego
+MERCH_01219,Merchant_1219,Entertainment,Los Angeles
+MERCH_01220,Merchant_1220,Electronics,Houston
+MERCH_01221,Merchant_1221,Gas Station,New York
+MERCH_01222,Merchant_1222,Healthcare,New York
+MERCH_01223,Merchant_1223,Electronics,San Diego
+MERCH_01224,Merchant_1224,Grocery,Houston
+MERCH_01225,Merchant_1225,Utilities,Philadelphia
+MERCH_01226,Merchant_1226,Electronics,Phoenix
+MERCH_01227,Merchant_1227,Gas Station,Austin
+MERCH_01228,Merchant_1228,Travel,Philadelphia
+MERCH_01229,Merchant_1229,Healthcare,Houston
+MERCH_01230,Merchant_1230,Restaurant,Houston
+MERCH_01231,Merchant_1231,Gas Station,San Antonio
+MERCH_01232,Merchant_1232,Entertainment,New York
+MERCH_01233,Merchant_1233,Restaurant,Dallas
+MERCH_01234,Merchant_1234,Electronics,Austin
+MERCH_01235,Merchant_1235,Utilities,Chicago
+MERCH_01236,Merchant_1236,Entertainment,Houston
+MERCH_01237,Merchant_1237,Gas Station,Dallas
+MERCH_01238,Merchant_1238,Restaurant,Phoenix
+MERCH_01239,Merchant_1239,Other,Houston
+MERCH_01240,Merchant_1240,Utilities,Philadelphia
+MERCH_01241,Merchant_1241,Utilities,New York
+MERCH_01242,Merchant_1242,Utilities,Austin
+MERCH_01243,Merchant_1243,Other,New York
+MERCH_01244,Merchant_1244,Gas Station,Phoenix
+MERCH_01245,Merchant_1245,Grocery,Phoenix
+MERCH_01246,Merchant_1246,Utilities,Dallas
+MERCH_01247,Merchant_1247,Entertainment,New York
+MERCH_01248,Merchant_1248,Restaurant,Chicago
+MERCH_01249,Merchant_1249,Travel,Chicago
+MERCH_01250,Merchant_1250,Utilities,Houston
+MERCH_01251,Merchant_1251,Healthcare,San Antonio
+MERCH_01252,Merchant_1252,Travel,San Antonio
+MERCH_01253,Merchant_1253,Travel,Austin
+MERCH_01254,Merchant_1254,Healthcare,Phoenix
+MERCH_01255,Merchant_1255,Utilities,Dallas
+MERCH_01256,Merchant_1256,Healthcare,San Antonio
+MERCH_01257,Merchant_1257,Grocery,Los Angeles
+MERCH_01258,Merchant_1258,Restaurant,Chicago
+MERCH_01259,Merchant_1259,Travel,San Antonio
+MERCH_01260,Merchant_1260,Healthcare,Phoenix
+MERCH_01261,Merchant_1261,Online Retail,San Antonio
+MERCH_01262,Merchant_1262,Online Retail,Dallas
+MERCH_01263,Merchant_1263,Restaurant,Dallas
+MERCH_01264,Merchant_1264,Other,Chicago
+MERCH_01265,Merchant_1265,Grocery,San Diego
+MERCH_01266,Merchant_1266,Other,Philadelphia
+MERCH_01267,Merchant_1267,Utilities,Houston
+MERCH_01268,Merchant_1268,Entertainment,Houston
+MERCH_01269,Merchant_1269,Utilities,Houston
+MERCH_01270,Merchant_1270,Restaurant,San Antonio
+MERCH_01271,Merchant_1271,Other,Philadelphia
+MERCH_01272,Merchant_1272,Electronics,Los Angeles
+MERCH_01273,Merchant_1273,Restaurant,Phoenix
+MERCH_01274,Merchant_1274,Other,Phoenix
+MERCH_01275,Merchant_1275,Entertainment,Philadelphia
+MERCH_01276,Merchant_1276,Utilities,San Antonio
+MERCH_01277,Merchant_1277,Gas Station,San Diego
+MERCH_01278,Merchant_1278,Grocery,Austin
+MERCH_01279,Merchant_1279,Online Retail,San Diego
+MERCH_01280,Merchant_1280,Online Retail,Phoenix
+MERCH_01281,Merchant_1281,Travel,Los Angeles
+MERCH_01282,Merchant_1282,Electronics,Austin
+MERCH_01283,Merchant_1283,Electronics,San Diego
+MERCH_01284,Merchant_1284,Utilities,Philadelphia
+MERCH_01285,Merchant_1285,Grocery,Chicago
+MERCH_01286,Merchant_1286,Healthcare,Houston
+MERCH_01287,Merchant_1287,Healthcare,New York
+MERCH_01288,Merchant_1288,Healthcare,Chicago
+MERCH_01289,Merchant_1289,Gas Station,Houston
+MERCH_01290,Merchant_1290,Other,Los Angeles
+MERCH_01291,Merchant_1291,Healthcare,Philadelphia
+MERCH_01292,Merchant_1292,Restaurant,San Diego
+MERCH_01293,Merchant_1293,Healthcare,Philadelphia
+MERCH_01294,Merchant_1294,Healthcare,Austin
+MERCH_01295,Merchant_1295,Gas Station,Chicago
+MERCH_01296,Merchant_1296,Online Retail,Dallas
+MERCH_01297,Merchant_1297,Utilities,Houston
+MERCH_01298,Merchant_1298,Utilities,Philadelphia
+MERCH_01299,Merchant_1299,Other,Houston
+MERCH_01300,Merchant_1300,Utilities,Houston
+MERCH_01301,Merchant_1301,Other,Los Angeles
+MERCH_01302,Merchant_1302,Travel,Austin
+MERCH_01303,Merchant_1303,Grocery,Los Angeles
+MERCH_01304,Merchant_1304,Healthcare,Los Angeles
+MERCH_01305,Merchant_1305,Utilities,Los Angeles
+MERCH_01306,Merchant_1306,Healthcare,San Diego
+MERCH_01307,Merchant_1307,Grocery,Austin
+MERCH_01308,Merchant_1308,Travel,Houston
+MERCH_01309,Merchant_1309,Utilities,Houston
+MERCH_01310,Merchant_1310,Utilities,Austin
+MERCH_01311,Merchant_1311,Entertainment,Austin
+MERCH_01312,Merchant_1312,Entertainment,Chicago
+MERCH_01313,Merchant_1313,Online Retail,Phoenix
+MERCH_01314,Merchant_1314,Entertainment,Houston
+MERCH_01315,Merchant_1315,Other,San Antonio
+MERCH_01316,Merchant_1316,Electronics,Austin
+MERCH_01317,Merchant_1317,Other,San Antonio
+MERCH_01318,Merchant_1318,Electronics,Philadelphia
+MERCH_01319,Merchant_1319,Grocery,San Antonio
+MERCH_01320,Merchant_1320,Restaurant,San Antonio
+MERCH_01321,Merchant_1321,Utilities,San Diego
+MERCH_01322,Merchant_1322,Restaurant,New York
+MERCH_01323,Merchant_1323,Other,Chicago
+MERCH_01324,Merchant_1324,Restaurant,Chicago
+MERCH_01325,Merchant_1325,Utilities,Phoenix
+MERCH_01326,Merchant_1326,Gas Station,Austin
+MERCH_01327,Merchant_1327,Restaurant,San Antonio
+MERCH_01328,Merchant_1328,Entertainment,Austin
+MERCH_01329,Merchant_1329,Utilities,Philadelphia
+MERCH_01330,Merchant_1330,Travel,Houston
+MERCH_01331,Merchant_1331,Entertainment,Philadelphia
+MERCH_01332,Merchant_1332,Gas Station,San Antonio
+MERCH_01333,Merchant_1333,Gas Station,Houston
+MERCH_01334,Merchant_1334,Healthcare,San Diego
+MERCH_01335,Merchant_1335,Entertainment,Phoenix
+MERCH_01336,Merchant_1336,Electronics,Chicago
+MERCH_01337,Merchant_1337,Travel,Los Angeles
+MERCH_01338,Merchant_1338,Utilities,New York
+MERCH_01339,Merchant_1339,Gas Station,Houston
+MERCH_01340,Merchant_1340,Gas Station,Los Angeles
+MERCH_01341,Merchant_1341,Travel,Chicago
+MERCH_01342,Merchant_1342,Healthcare,New York
+MERCH_01343,Merchant_1343,Electronics,Philadelphia
+MERCH_01344,Merchant_1344,Grocery,Houston
+MERCH_01345,Merchant_1345,Gas Station,Phoenix
+MERCH_01346,Merchant_1346,Healthcare,San Diego
+MERCH_01347,Merchant_1347,Online Retail,Houston
+MERCH_01348,Merchant_1348,Utilities,Philadelphia
+MERCH_01349,Merchant_1349,Travel,Chicago
+MERCH_01350,Merchant_1350,Other,San Diego
+MERCH_01351,Merchant_1351,Online Retail,Chicago
+MERCH_01352,Merchant_1352,Online Retail,San Antonio
+MERCH_01353,Merchant_1353,Other,San Antonio
+MERCH_01354,Merchant_1354,Electronics,Chicago
+MERCH_01355,Merchant_1355,Entertainment,Chicago
+MERCH_01356,Merchant_1356,Entertainment,Austin
+MERCH_01357,Merchant_1357,Other,Austin
+MERCH_01358,Merchant_1358,Entertainment,San Diego
+MERCH_01359,Merchant_1359,Electronics,Chicago
+MERCH_01360,Merchant_1360,Utilities,Los Angeles
+MERCH_01361,Merchant_1361,Restaurant,Phoenix
+MERCH_01362,Merchant_1362,Healthcare,San Antonio
+MERCH_01363,Merchant_1363,Other,San Diego
+MERCH_01364,Merchant_1364,Healthcare,New York
+MERCH_01365,Merchant_1365,Gas Station,Los Angeles
+MERCH_01366,Merchant_1366,Electronics,San Antonio
+MERCH_01367,Merchant_1367,Healthcare,Dallas
+MERCH_01368,Merchant_1368,Other,Chicago
+MERCH_01369,Merchant_1369,Utilities,San Diego
+MERCH_01370,Merchant_1370,Entertainment,Austin
+MERCH_01371,Merchant_1371,Online Retail,Chicago
+MERCH_01372,Merchant_1372,Online Retail,Houston
+MERCH_01373,Merchant_1373,Gas Station,Los Angeles
+MERCH_01374,Merchant_1374,Healthcare,Dallas
+MERCH_01375,Merchant_1375,Travel,Phoenix
+MERCH_01376,Merchant_1376,Other,Phoenix
+MERCH_01377,Merchant_1377,Travel,Houston
+MERCH_01378,Merchant_1378,Other,Phoenix
+MERCH_01379,Merchant_1379,Other,New York
+MERCH_01380,Merchant_1380,Utilities,Austin
+MERCH_01381,Merchant_1381,Gas Station,Austin
+MERCH_01382,Merchant_1382,Online Retail,Philadelphia
+MERCH_01383,Merchant_1383,Gas Station,Houston
+MERCH_01384,Merchant_1384,Gas Station,Houston
+MERCH_01385,Merchant_1385,Grocery,Phoenix
+MERCH_01386,Merchant_1386,Other,New York
+MERCH_01387,Merchant_1387,Travel,Houston
+MERCH_01388,Merchant_1388,Utilities,Austin
+MERCH_01389,Merchant_1389,Electronics,Chicago
+MERCH_01390,Merchant_1390,Other,Phoenix
+MERCH_01391,Merchant_1391,Restaurant,Austin
+MERCH_01392,Merchant_1392,Other,Phoenix
+MERCH_01393,Merchant_1393,Online Retail,San Diego
+MERCH_01394,Merchant_1394,Travel,New York
+MERCH_01395,Merchant_1395,Entertainment,Chicago
+MERCH_01396,Merchant_1396,Entertainment,Phoenix
+MERCH_01397,Merchant_1397,Online Retail,Chicago
+MERCH_01398,Merchant_1398,Other,Philadelphia
+MERCH_01399,Merchant_1399,Other,Austin
+MERCH_01400,Merchant_1400,Electronics,Chicago
+MERCH_01401,Merchant_1401,Online Retail,Philadelphia
+MERCH_01402,Merchant_1402,Other,San Diego
+MERCH_01403,Merchant_1403,Travel,Houston
+MERCH_01404,Merchant_1404,Entertainment,San Diego
+MERCH_01405,Merchant_1405,Restaurant,San Antonio
+MERCH_01406,Merchant_1406,Other,Houston
+MERCH_01407,Merchant_1407,Gas Station,Chicago
+MERCH_01408,Merchant_1408,Healthcare,Phoenix
+MERCH_01409,Merchant_1409,Entertainment,Phoenix
+MERCH_01410,Merchant_1410,Grocery,San Antonio
+MERCH_01411,Merchant_1411,Online Retail,New York
+MERCH_01412,Merchant_1412,Electronics,Dallas
+MERCH_01413,Merchant_1413,Gas Station,Los Angeles
+MERCH_01414,Merchant_1414,Online Retail,Dallas
+MERCH_01415,Merchant_1415,Other,Dallas
+MERCH_01416,Merchant_1416,Other,Chicago
+MERCH_01417,Merchant_1417,Other,San Antonio
+MERCH_01418,Merchant_1418,Entertainment,Chicago
+MERCH_01419,Merchant_1419,Healthcare,San Diego
+MERCH_01420,Merchant_1420,Utilities,San Diego
+MERCH_01421,Merchant_1421,Restaurant,Chicago
+MERCH_01422,Merchant_1422,Online Retail,Phoenix
+MERCH_01423,Merchant_1423,Grocery,San Antonio
+MERCH_01424,Merchant_1424,Gas Station,New York
+MERCH_01425,Merchant_1425,Healthcare,Chicago
+MERCH_01426,Merchant_1426,Entertainment,New York
+MERCH_01427,Merchant_1427,Healthcare,Los Angeles
+MERCH_01428,Merchant_1428,Travel,San Antonio
+MERCH_01429,Merchant_1429,Electronics,San Antonio
+MERCH_01430,Merchant_1430,Other,Chicago
+MERCH_01431,Merchant_1431,Utilities,Philadelphia
+MERCH_01432,Merchant_1432,Electronics,Philadelphia
+MERCH_01433,Merchant_1433,Utilities,Los Angeles
+MERCH_01434,Merchant_1434,Online Retail,Dallas
+MERCH_01435,Merchant_1435,Electronics,San Diego
+MERCH_01436,Merchant_1436,Grocery,Los Angeles
+MERCH_01437,Merchant_1437,Travel,Houston
+MERCH_01438,Merchant_1438,Gas Station,Dallas
+MERCH_01439,Merchant_1439,Other,Houston
+MERCH_01440,Merchant_1440,Restaurant,San Antonio
+MERCH_01441,Merchant_1441,Travel,Phoenix
+MERCH_01442,Merchant_1442,Grocery,Austin
+MERCH_01443,Merchant_1443,Utilities,Philadelphia
+MERCH_01444,Merchant_1444,Electronics,New York
+MERCH_01445,Merchant_1445,Entertainment,Houston
+MERCH_01446,Merchant_1446,Other,Phoenix
+MERCH_01447,Merchant_1447,Utilities,Philadelphia
+MERCH_01448,Merchant_1448,Utilities,Philadelphia
+MERCH_01449,Merchant_1449,Entertainment,Phoenix
+MERCH_01450,Merchant_1450,Online Retail,Chicago
+MERCH_01451,Merchant_1451,Online Retail,Los Angeles
+MERCH_01452,Merchant_1452,Entertainment,San Antonio
+MERCH_01453,Merchant_1453,Healthcare,New York
+MERCH_01454,Merchant_1454,Entertainment,Phoenix
+MERCH_01455,Merchant_1455,Other,Houston
+MERCH_01456,Merchant_1456,Online Retail,San Antonio
+MERCH_01457,Merchant_1457,Online Retail,Los Angeles
+MERCH_01458,Merchant_1458,Healthcare,San Diego
+MERCH_01459,Merchant_1459,Utilities,Dallas
+MERCH_01460,Merchant_1460,Entertainment,Austin
+MERCH_01461,Merchant_1461,Gas Station,New York
+MERCH_01462,Merchant_1462,Other,Phoenix
+MERCH_01463,Merchant_1463,Grocery,Houston
+MERCH_01464,Merchant_1464,Electronics,Phoenix
+MERCH_01465,Merchant_1465,Travel,Dallas
+MERCH_01466,Merchant_1466,Utilities,Chicago
+MERCH_01467,Merchant_1467,Electronics,New York
+MERCH_01468,Merchant_1468,Grocery,Chicago
+MERCH_01469,Merchant_1469,Online Retail,Houston
+MERCH_01470,Merchant_1470,Restaurant,Los Angeles
+MERCH_01471,Merchant_1471,Online Retail,New York
+MERCH_01472,Merchant_1472,Entertainment,New York
+MERCH_01473,Merchant_1473,Utilities,San Diego
+MERCH_01474,Merchant_1474,Gas Station,Houston
+MERCH_01475,Merchant_1475,Gas Station,Los Angeles
+MERCH_01476,Merchant_1476,Online Retail,Austin
+MERCH_01477,Merchant_1477,Entertainment,Chicago
+MERCH_01478,Merchant_1478,Travel,San Diego
+MERCH_01479,Merchant_1479,Electronics,Philadelphia
+MERCH_01480,Merchant_1480,Online Retail,San Diego
+MERCH_01481,Merchant_1481,Healthcare,Austin
+MERCH_01482,Merchant_1482,Online Retail,Phoenix
+MERCH_01483,Merchant_1483,Gas Station,Chicago
+MERCH_01484,Merchant_1484,Entertainment,Philadelphia
+MERCH_01485,Merchant_1485,Restaurant,Austin
+MERCH_01486,Merchant_1486,Online Retail,San Diego
+MERCH_01487,Merchant_1487,Healthcare,Phoenix
+MERCH_01488,Merchant_1488,Online Retail,Phoenix
+MERCH_01489,Merchant_1489,Other,Chicago
+MERCH_01490,Merchant_1490,Entertainment,Chicago
+MERCH_01491,Merchant_1491,Restaurant,San Diego
+MERCH_01492,Merchant_1492,Electronics,New York
+MERCH_01493,Merchant_1493,Online Retail,Houston
+MERCH_01494,Merchant_1494,Utilities,Dallas
+MERCH_01495,Merchant_1495,Entertainment,Philadelphia
+MERCH_01496,Merchant_1496,Utilities,Philadelphia
+MERCH_01497,Merchant_1497,Other,Austin
+MERCH_01498,Merchant_1498,Entertainment,San Antonio
+MERCH_01499,Merchant_1499,Restaurant,San Antonio
+MERCH_01500,Merchant_1500,Restaurant,Philadelphia
